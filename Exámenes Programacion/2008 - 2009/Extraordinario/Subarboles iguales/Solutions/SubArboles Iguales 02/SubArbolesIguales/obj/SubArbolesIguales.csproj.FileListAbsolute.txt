@@ -1,0 +1,6 @@
+C:\Users\luis\Desktop\SubArbolesIguales\SubArbolesIguales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\luis\Desktop\SubArbolesIguales\SubArbolesIguales\bin\Debug\SubArbolesIguales.dll
+C:\Users\luis\Desktop\SubArbolesIguales\SubArbolesIguales\bin\Debug\SubArbolesIguales.pdb
+C:\Users\luis\Desktop\SubArbolesIguales\SubArbolesIguales\bin\Debug\Weboo.Arboles.dll
+C:\Users\luis\Desktop\SubArbolesIguales\SubArbolesIguales\obj\Debug\SubArbolesIguales.dll
+C:\Users\luis\Desktop\SubArbolesIguales\SubArbolesIguales\obj\Debug\SubArbolesIguales.pdb

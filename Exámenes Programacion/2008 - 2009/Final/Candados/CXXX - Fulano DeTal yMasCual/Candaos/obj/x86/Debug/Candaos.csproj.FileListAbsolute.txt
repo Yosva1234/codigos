@@ -1,0 +1,16 @@
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\bin\Debug\Candaos.exe
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\bin\Debug\Candaos.pdb
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\bin\Debug\Candados.dll
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\bin\Debug\Candados.Utiles.dll
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\bin\Debug\Candados.pdb
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\obj\x86\Debug\Candaos.exe
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\obj\x86\Debug\Candaos.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\obj\x86\Debug\Candaos.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\bin\Debug\Candaos.exe
+C:\Users\juanc\Desktop\Exámenes Programacion\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\bin\Debug\Candaos.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\bin\Debug\Candados.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\bin\Debug\Candados.Utiles.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\bin\Debug\Candados.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\obj\x86\Debug\Candaos.csprojResolveAssemblyReference.cache
+C:\Users\juanc\Desktop\Exámenes Programacion\2008 - 2009\Final\Candados\CXXX - Fulano DeTal yMasCual\Candaos\obj\x86\Debug\Candaos.exe

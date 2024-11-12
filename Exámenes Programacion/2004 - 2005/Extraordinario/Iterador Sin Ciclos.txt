@@ -1,0 +1,4 @@
+namespace: IteradorSinCiclos
+clase: Principal
+método: public static IEnumerator Iterador(Enlazable primero);
+

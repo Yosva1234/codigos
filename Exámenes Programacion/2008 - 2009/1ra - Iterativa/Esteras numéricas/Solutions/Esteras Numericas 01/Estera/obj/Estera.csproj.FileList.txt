@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Estera.exe
+bin\Debug\Estera.pdb
+obj\Debug\Estera.exe
+obj\Debug\Estera.pdb

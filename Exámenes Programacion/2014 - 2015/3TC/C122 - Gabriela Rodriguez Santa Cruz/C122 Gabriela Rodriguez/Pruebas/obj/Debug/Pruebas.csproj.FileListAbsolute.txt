@@ -1,0 +1,14 @@
+C:\Users\Gabriela\Documents\Proyecto\C12X - Nombre Apellido Apellido\Weboo.Examen.Supermercado\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\Gabriela\Documents\Proyecto\C12X - Nombre Apellido Apellido\Weboo.Examen.Supermercado\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\Gabriela\Documents\Proyecto\C12X - Nombre Apellido Apellido\Weboo.Examen.Supermercado\Pruebas\bin\Debug\Weboo.Examen.Supermercado.dll
+C:\Users\Gabriela\Documents\Proyecto\C12X - Nombre Apellido Apellido\Weboo.Examen.Supermercado\Pruebas\bin\Debug\Weboo.Examen.Supermercado.pdb
+C:\Users\Gabriela\Documents\Proyecto\C12X - Nombre Apellido Apellido\Weboo.Examen.Supermercado\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\Documents\Proyecto\C12X - Nombre Apellido Apellido\Weboo.Examen.Supermercado\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\Gabriela\Documents\Proyecto\C12X - Nombre Apellido Apellido\Weboo.Examen.Supermercado\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\Gabriela\Documents\Proyecto\C122 - Gabriela Rodriguez Santa Cruz\Weboo.Examen.Supermercado\Pruebas\obj\Debug\Pruebas.exe
+C:\Users\Gabriela\Documents\Proyecto\C122 - Gabriela Rodriguez Santa Cruz\Weboo.Examen.Supermercado\Pruebas\obj\Debug\Pruebas.pdb
+C:\Users\Gabriela\Documents\Proyecto\C122 - Gabriela Rodriguez Santa Cruz\Weboo.Examen.Supermercado\Pruebas\bin\Debug\Pruebas.exe
+C:\Users\Gabriela\Documents\Proyecto\C122 - Gabriela Rodriguez Santa Cruz\Weboo.Examen.Supermercado\Pruebas\bin\Debug\Pruebas.pdb
+C:\Users\Gabriela\Documents\Proyecto\C122 - Gabriela Rodriguez Santa Cruz\Weboo.Examen.Supermercado\Pruebas\bin\Debug\Weboo.Examen.Supermercado.dll
+C:\Users\Gabriela\Documents\Proyecto\C122 - Gabriela Rodriguez Santa Cruz\Weboo.Examen.Supermercado\Pruebas\bin\Debug\Weboo.Examen.Supermercado.pdb
+C:\Users\Gabriela\Documents\Proyecto\C122 - Gabriela Rodriguez Santa Cruz\Weboo.Examen.Supermercado\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache

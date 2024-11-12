@@ -1,0 +1,24 @@
+C:\Users\Jhoerlain\Documents\Visual Studio 2012\Projects\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\obj\Debug\Weboo.ExamenExtraordinario.csprojResolveAssemblyReference.cache
+C:\Users\Jhoerlain\Documents\Visual Studio 2012\Projects\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\bin\Debug\Weboo.ExamenExtraordinario.dll
+C:\Users\Jhoerlain\Documents\Visual Studio 2012\Projects\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\bin\Debug\Weboo.ExamenExtraordinario.pdb
+C:\Users\Jhoerlain\Documents\Visual Studio 2012\Projects\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\bin\Debug\Weboo.Utils.dll
+C:\Users\Jhoerlain\Documents\Visual Studio 2012\Projects\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\bin\Debug\Weboo.Utils.pdb
+C:\Users\Jhoerlain\Documents\Visual Studio 2012\Projects\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\obj\Debug\Weboo.ExamenExtraordinario.dll
+C:\Users\Jhoerlain\Documents\Visual Studio 2012\Projects\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\obj\Debug\Weboo.ExamenExtraordinario.pdb
+D:\Study\Docencia\2014 - 2015\Extraordinario\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\bin\Debug\Weboo.ExamenExtraordinario.dll
+D:\Study\Docencia\2014 - 2015\Extraordinario\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\bin\Debug\Weboo.ExamenExtraordinario.pdb
+D:\Study\Docencia\2014 - 2015\Extraordinario\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\bin\Debug\Weboo.Utils.dll
+D:\Study\Docencia\2014 - 2015\Extraordinario\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\obj\Debug\Weboo.ExamenExtraordinario.dll
+D:\Study\Docencia\2014 - 2015\Extraordinario\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\obj\Debug\Weboo.ExamenExtraordinario.pdb
+D:\Study\Docencia\2014 - 2015\Extraordinario\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\obj\Debug\Weboo.ExamenExtraordinario.csprojResolveAssemblyReference.cache
+D:\Study\Docencia\2014 - 2015\Extraordinario\Ordenando Paso a paso\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\bin\Debug\Weboo.ExamenExtraordinario.dll
+D:\Study\Docencia\2014 - 2015\Extraordinario\Ordenando Paso a paso\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\bin\Debug\Weboo.ExamenExtraordinario.pdb
+D:\Study\Docencia\2014 - 2015\Extraordinario\Ordenando Paso a paso\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\bin\Debug\Weboo.Utils.dll
+D:\Study\Docencia\2014 - 2015\Extraordinario\Ordenando Paso a paso\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\obj\Debug\Weboo.ExamenExtraordinario.dll
+D:\Study\Docencia\2014 - 2015\Extraordinario\Ordenando Paso a paso\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\obj\Debug\Weboo.ExamenExtraordinario.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2014 - 2015\Extraordinario\Ordenando Paso a paso\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\bin\Debug\Weboo.ExamenExtraordinario.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2014 - 2015\Extraordinario\Ordenando Paso a paso\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\bin\Debug\Weboo.ExamenExtraordinario.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2014 - 2015\Extraordinario\Ordenando Paso a paso\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\bin\Debug\Weboo.Utils.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2014 - 2015\Extraordinario\Ordenando Paso a paso\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\obj\Debug\Weboo.ExamenExtraordinario.csprojResolveAssemblyReference.cache
+C:\Users\juanc\Desktop\Exámenes Programacion\2014 - 2015\Extraordinario\Ordenando Paso a paso\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\obj\Debug\Weboo.ExamenExtraordinario.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2014 - 2015\Extraordinario\Ordenando Paso a paso\Weboo.ExamenExtraordinario\Weboo.ExamenExtraordinario\obj\Debug\Weboo.ExamenExtraordinario.pdb

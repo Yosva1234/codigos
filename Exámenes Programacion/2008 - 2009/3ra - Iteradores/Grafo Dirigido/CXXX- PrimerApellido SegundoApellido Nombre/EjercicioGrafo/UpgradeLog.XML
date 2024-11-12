@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EjercicioGrafo">
+</Property><Property Name="Solution File" Value="C:\Users\Luisito\Documents\2008 - 2009\3ra - Iteradores\Grafo Dirigido\CXXX- PrimerApellido SegundoApellido Nombre\EjercicioGrafo\EjercicioGrafo.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Luisito\Documents\2008 - 2009\3ra - Iteradores\Grafo Dirigido\CXXX- PrimerApellido SegundoApellido Nombre\EjercicioGrafo\EjercicioGrafo.suo">
+</Property><Property Name="Date" Value="miércoles, 02 de mayo de 2012">
+</Property><Property Name="Time" Value="18:23">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EjercicioGrafo.sln" Description="File successfully backed up as C:\Users\Luisito\Documents\2008 - 2009\3ra - Iteradores\Grafo Dirigido\CXXX- PrimerApellido SegundoApellido Nombre\EjercicioGrafo\Backup\EjercicioGrafo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EjercicioGrafo.suo" Description="File successfully backed up as C:\Users\Luisito\Documents\2008 - 2009\3ra - Iteradores\Grafo Dirigido\CXXX- PrimerApellido SegundoApellido Nombre\EjercicioGrafo\Backup\EjercicioGrafo.suo">
+</Event><Event ErrorLevel="0" Project="EjercicioGrafo" Source="EjercicioGrafo\EjercicioGrafo.csproj" Description="Project file successfully backed up as C:\Users\Luisito\Documents\2008 - 2009\3ra - Iteradores\Grafo Dirigido\CXXX- PrimerApellido SegundoApellido Nombre\EjercicioGrafo\Backup\EjercicioGrafo\EjercicioGrafo.csproj">
+</Event><Event ErrorLevel="0" Project="EjercicioGrafo" Source="EjercicioGrafo\GrafoDirigido .cs" Description="File successfully backed up as C:\Users\Luisito\Documents\2008 - 2009\3ra - Iteradores\Grafo Dirigido\CXXX- PrimerApellido SegundoApellido Nombre\EjercicioGrafo\Backup\EjercicioGrafo\GrafoDirigido .cs">
+</Event><Event ErrorLevel="2" Project="EjercicioGrafo" Source="EjercicioGrafo\Properties\AssemblyInfo.cs" Description="Failed to backup file as C:\Users\Luisito\Documents\2008 - 2009\3ra - Iteradores\Grafo Dirigido\CXXX- PrimerApellido SegundoApellido Nombre\EjercicioGrafo\Backup\EjercicioGrafo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="EjercicioGrafo" Source="EjercicioGrafo\EjercicioGrafo.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="EjercicioGrafo" Source="EjercicioGrafo\EjercicioGrafo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EjercicioGrafo" Source="EjercicioGrafo\EjercicioGrafo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EjercicioGrafo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EjercicioGrafo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EjercicioGrafo" Source="EjercicioGrafo\EjercicioGrafo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

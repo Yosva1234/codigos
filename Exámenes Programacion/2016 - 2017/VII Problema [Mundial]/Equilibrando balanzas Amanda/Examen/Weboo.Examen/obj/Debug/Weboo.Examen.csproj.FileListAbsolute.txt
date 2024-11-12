@@ -1,0 +1,21 @@
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\Weboo.Examen\bin\Debug\Weboo.Examen.dll
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\Weboo.Examen\bin\Debug\Weboo.Examen.pdb
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\Weboo.Examen\bin\Debug\Balanzas.dll
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\Weboo.Examen\bin\Debug\Balanzas.pdb
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\Weboo.Examen\obj\Debug\Weboo.Examen.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\Weboo.Examen\obj\Debug\Weboo.Examen.dll
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\Weboo.Examen\obj\Debug\Weboo.Examen.pdb
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\Weboo.Examen\bin\Debug\Weboo.Examen.dll
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\Weboo.Examen\bin\Debug\Weboo.Examen.pdb
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\Weboo.Examen\bin\Debug\Balanzas.dll
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\Weboo.Examen\bin\Debug\Balanzas.pdb
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\Weboo.Examen\obj\Debug\Weboo.Examen.csprojResolveAssemblyReference.cache
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\Weboo.Examen\obj\Debug\Weboo.Examen.dll
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\Weboo.Examen\obj\Debug\Weboo.Examen.pdb
+D:\mundial\C11X Nombre y Apellidos\Examen\Weboo.Examen\bin\Debug\Weboo.Examen.dll
+D:\mundial\C11X Nombre y Apellidos\Examen\Weboo.Examen\bin\Debug\Weboo.Examen.pdb
+D:\mundial\C11X Nombre y Apellidos\Examen\Weboo.Examen\bin\Debug\Balanzas.dll
+D:\mundial\C11X Nombre y Apellidos\Examen\Weboo.Examen\bin\Debug\Balanzas.pdb
+D:\mundial\C11X Nombre y Apellidos\Examen\Weboo.Examen\obj\Debug\Weboo.Examen.csprojResolveAssemblyReference.cache
+D:\mundial\C11X Nombre y Apellidos\Examen\Weboo.Examen\obj\Debug\Weboo.Examen.dll
+D:\mundial\C11X Nombre y Apellidos\Examen\Weboo.Examen\obj\Debug\Weboo.Examen.pdb

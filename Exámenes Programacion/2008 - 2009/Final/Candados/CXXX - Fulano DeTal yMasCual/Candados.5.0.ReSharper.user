@@ -1,0 +1,98 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="enlaces" priority="2" />
+      <Item value="Enlace`0" priority="6" />
+      <Item value="new" priority="16" />
+      <Item value="Enlace" priority="9" />
+      <Item value="a" priority="2" />
+      <Item value="private" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="int" priority="4" />
+      <Item value="enlace" priority="0" />
+      <Item value="var" priority="9" />
+      <Item value="return" priority="5" />
+      <Item value="Candados" priority="2" />
+      <Item value="Cerrajero`0" priority="1" />
+      <Item value="null" priority="1" />
+      <Item value="default" priority="0" />
+      <Item value="using" priority="1" />
+      <Item value="Utiles" priority="0" />
+      <Item value="for" priority="2" />
+      <Item value="n" priority="1" />
+      <Item value="NumeroCandadosSueltos`0" priority="0" />
+      <Item value="out" priority="2" />
+      <Item value="List" priority="3" />
+      <Item value="candadosNoAbiertos" priority="4" />
+      <Item value="candados" priority="4" />
+      <Item value="Length" priority="2" />
+      <Item value="if" priority="4" />
+      <Item value="candado" priority="1" />
+      <Item value="candadosAbiertos" priority="1" />
+      <Item value="result" priority="4" />
+      <Item value="i" priority="1" />
+      <Item value="List&lt;Enlace&gt;" priority="1" />
+      <Item value="numeroMaxCandadosAbiertos" priority="6" />
+      <Item value="temp" priority="4" />
+      <Item value="llaveActual" priority="1" />
+      <Item value="LlavesParaAbrir`0" priority="0" />
+      <Item value="aux" priority="1" />
+      <Item value="minCandadosNoAbiertos" priority="1" />
+      <Item value="continue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Candados.Utiles.Enlace">
+      <Item value="Candado1" priority="1" />
+      <Item value="Candado2" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Candados.Cerrajero">
+      <Item value="LlavesParaAbrir`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="2" />
+      <Item value="Contains`0" priority="0" />
+      <Item value="AddRange`0" priority="0" />
+      <Item value="ToArray`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="MinValue" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E8FF7228-DD6D-44B9-AE16-AAB4EC4B6809/f:Class1.cs" caret="154" fromTop="5" />
+      <File id="0EB15DCE-1CB3-447B-8E11-D8549D5FF6EB/f:Program.cs" caret="677" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0EB15DCE-1CB3-447B-8E11-D8549D5FF6EB/f:Program.cs" caret="111" fromTop="3" />
+      <File id="E8FF7228-DD6D-44B9-AE16-AAB4EC4B6809/f:Class1.cs" caret="1717" fromTop="3" />
+      <File id="E8FF7228-DD6D-44B9-AE16-AAB4EC4B6809/f:Class1.cs" caret="2276" fromTop="15" />
+      <File id="E8FF7228-DD6D-44B9-AE16-AAB4EC4B6809/f:Class1.cs" caret="1717" fromTop="8" />
+      <File id="E8FF7228-DD6D-44B9-AE16-AAB4EC4B6809/f:Class1.cs" caret="301" fromTop="5" />
+      <File id="E8FF7228-DD6D-44B9-AE16-AAB4EC4B6809/f:Class1.cs" caret="1717" fromTop="19" />
+      <File id="E8FF7228-DD6D-44B9-AE16-AAB4EC4B6809/f:Class1.cs" caret="1717" fromTop="19" />
+      <File id="E8FF7228-DD6D-44B9-AE16-AAB4EC4B6809/f:Class1.cs" caret="389" fromTop="15" />
+      <File id="E8FF7228-DD6D-44B9-AE16-AAB4EC4B6809/f:Class1.cs" caret="733" fromTop="10" />
+      <File id="E8FF7228-DD6D-44B9-AE16-AAB4EC4B6809/f:Class1.cs" caret="1717" fromTop="15" />
+      <File id="E8FF7228-DD6D-44B9-AE16-AAB4EC4B6809/f:Class1.cs" caret="1753" fromTop="11" />
+      <File id="0EB15DCE-1CB3-447B-8E11-D8549D5FF6EB/f:Program.cs" caret="631" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,72 @@
+C:\Users\Alex\Desktop\Arboles\Main\bin\Debug\net8.0\Main.exe
+C:\Users\Alex\Desktop\Arboles\Main\bin\Debug\net8.0\Main.deps.json
+C:\Users\Alex\Desktop\Arboles\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+C:\Users\Alex\Desktop\Arboles\Main\bin\Debug\net8.0\Main.dll
+C:\Users\Alex\Desktop\Arboles\Main\bin\Debug\net8.0\Main.pdb
+C:\Users\Alex\Desktop\Arboles\Main\bin\Debug\net8.0\Solution.dll
+C:\Users\Alex\Desktop\Arboles\Main\bin\Debug\net8.0\Solution.pdb
+C:\Users\Alex\Desktop\Arboles\Main\obj\Debug\net8.0\Main.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Arboles\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Arboles\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Arboles\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Arboles\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Arboles\Main\obj\Debug\net8.0\Main.csproj.CopyComplete
+C:\Users\Alex\Desktop\Arboles\Main\obj\Debug\net8.0\Main.dll
+C:\Users\Alex\Desktop\Arboles\Main\obj\Debug\net8.0\refint\Main.dll
+C:\Users\Alex\Desktop\Arboles\Main\obj\Debug\net8.0\Main.pdb
+C:\Users\Alex\Desktop\Arboles\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Arboles\Main\obj\Debug\net8.0\ref\Main.dll
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\obj\Debug\net8.0\Main.dll
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\obj\Debug\net8.0\refint\Main.dll
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\obj\Debug\net8.0\Main.pdb
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\bin\Debug\net8.0\Main.exe
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\bin\Debug\net8.0\Main.deps.json
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\bin\Debug\net8.0\Main.dll
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\bin\Debug\net8.0\Main.pdb
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\bin\Debug\net8.0\Solution.dll
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\bin\Debug\net8.0\Solution.pdb
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\obj\Debug\net8.0\Main.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\obj\Debug\net8.0\Main.csproj.CopyComplete
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+C:\Users\Alex\Documents\Coding\pruebas\Arboles_Final\Main\obj\Debug\net8.0\ref\Main.dll
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\bin\Debug\net8.0\Main.exe
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\bin\Debug\net8.0\Main.deps.json
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\bin\Debug\net8.0\Main.dll
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\bin\Debug\net8.0\Main.pdb
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\bin\Debug\net8.0\Solution.dll
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\bin\Debug\net8.0\Solution.pdb
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.csproj.CopyComplete
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.dll
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\obj\Debug\net8.0\refint\Main.dll
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.pdb
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+C:\Users\Alex\Documents\Coding\pruebas\Finding Paths\Main\obj\Debug\net8.0\ref\Main.dll
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.dll
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\obj\Debug\net8.0\refint\Main.dll
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.pdb
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\bin\Debug\net8.0\Main.exe
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\bin\Debug\net8.0\Main.deps.json
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\bin\Debug\net8.0\Main.dll
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\bin\Debug\net8.0\Main.pdb
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\bin\Debug\net8.0\Solution.dll
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\bin\Debug\net8.0\Solution.pdb
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.csproj.Up2Date
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+C:\Users\HP\Desktop\pruebas\Finding Paths\Main\obj\Debug\net8.0\ref\Main.dll

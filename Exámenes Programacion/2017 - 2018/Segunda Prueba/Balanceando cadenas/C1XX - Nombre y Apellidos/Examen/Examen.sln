@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{7AD21BDD-B476-456F-B254-AEE8075B1E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weboo.Examen", "Weboo.Examen\Weboo.Examen.csproj", "{13BE3CBF-A1F4-4968-B9A6-D3C3F209A0B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD21BDD-B476-456F-B254-AEE8075B1E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD21BDD-B476-456F-B254-AEE8075B1E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD21BDD-B476-456F-B254-AEE8075B1E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD21BDD-B476-456F-B254-AEE8075B1E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13BE3CBF-A1F4-4968-B9A6-D3C3F209A0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BE3CBF-A1F4-4968-B9A6-D3C3F209A0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BE3CBF-A1F4-4968-B9A6-D3C3F209A0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BE3CBF-A1F4-4968-B9A6-D3C3F209A0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B58A7C40-31A7-460E-B8CB-0F76F56CF00C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weboo.Examen", "Weboo.Examen.csproj", "{91FE3CCB-A9E3-46A8-8F8B-51040B5D942D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91FE3CCB-A9E3-46A8-8F8B-51040B5D942D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FE3CCB-A9E3-46A8-8F8B-51040B5D942D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FE3CCB-A9E3-46A8-8F8B-51040B5D942D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FE3CCB-A9E3-46A8-8F8B-51040B5D942D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11B1ECC2-0B9C-4B99-A127-A3BE3C7A92CF}
+	EndGlobalSection
+EndGlobal

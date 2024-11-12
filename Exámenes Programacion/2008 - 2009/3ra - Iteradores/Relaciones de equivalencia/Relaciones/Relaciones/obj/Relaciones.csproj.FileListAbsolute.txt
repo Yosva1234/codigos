@@ -1,0 +1,6 @@
+C:\Users\lleonart\Documents\Visual Studio 2005\Projects\Relaciones\Relaciones\bin\Debug\Relaciones.dll
+C:\Users\lleonart\Documents\Visual Studio 2005\Projects\Relaciones\Relaciones\bin\Debug\Relaciones.pdb
+C:\Users\lleonart\Documents\Visual Studio 2005\Projects\Relaciones\Relaciones\bin\Debug\Weboo.Utiles.dll
+C:\Users\lleonart\Documents\Visual Studio 2005\Projects\Relaciones\Relaciones\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lleonart\Documents\Visual Studio 2005\Projects\Relaciones\Relaciones\obj\Debug\Relaciones.dll
+C:\Users\lleonart\Documents\Visual Studio 2005\Projects\Relaciones\Relaciones\obj\Debug\Relaciones.pdb

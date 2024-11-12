@@ -1,0 +1,88 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe3082{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;
+\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;
+\red192\green192\blue192;}{\stylesheet{\nowidctlpar\widctlpar\adjustright \fs20\lang1034\cgrid \snext0 Normal;}{\s3\sb240\sa60\keepn\nowidctlpar\widctlpar\adjustright \b\f1\lang1034\cgrid \sbasedon0 \snext0 heading 3;}{\*\cs10 \additive 
+Default Paragraph Font;}{\*\cs15 \additive \f2\fs18 \sbasedon10 program;}}{\*\listtable{\list\listtemplateid-1\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01*;}{\levelnumbers;}}{\listname 
+;}\listid-2}{\list\listtemplateid-1571008496\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat2\levelold\levelspace0\levelindent283{\leveltext\'03\'00) ;}{\levelnumbers\'01;}\b0\i0\f0\fs20\ulnone\fbias0 \fi-283\li283 }{\listname 
+;}\listid407002136}{\list\listtemplateid787258342\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelold\levelspace0\levelindent283{\leveltext\'03\'00) ;}{\levelnumbers\'01;}\b0\i0\f0\fs20\ulnone\fbias0 \fi-283\li283 }{\listname 
+;}\listid563872991}{\list\listtemplateid-487400464\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat4\levelold\levelspace0\levelindent283{\leveltext\'03\'00) ;}{\levelnumbers\'01;}\b0\i0\f0\fs20\ulnone\fbias0 \fi-283\li283 }{\listname 
+;}\listid864513624}{\list\listtemplateid-229056830\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat3\levelold\levelspace0\levelindent283{\leveltext\'03\'00) ;}{\levelnumbers\'01;}\b0\i0\f0\fs20\ulnone\fbias0 \fi-283\li283 }{\listname 
+;}\listid2138058937}}{\*\listoverridetable{\listoverride\listid563872991\listoverridecount0\ls1}{\listoverride\listid407002136\listoverridecount0\ls2}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0
+\levelfollow0\levelstartat1\levelold\levelspace0\levelindent283{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-283\li283 }}\ls3}{\listoverride\listid2138058937\listoverridecount0\ls4}{\listoverride\listid864513624\listoverridecount0\ls5}}{\info
+{\title EXAMEN FINAL ASIGNATURA PROGRAMACI\'d3N}{\author Miguel Katrib Mora}{\operator Holden Hern\'e1ndez}{\creatim\yr1997\mo5\dy17\hr12\min11}{\revtim\yr2002\mo6\dy15\hr15\min50}{\printim\yr2002\mo6\dy15\hr15\min48}{\version8}{\edmins23}{\nofpages1}
+{\nofwords490}{\nofchars2794}{\*\company Universidad de la Habana}{\nofcharsws3431}{\vern73}}\paperw15876\paperh20412\margl1134\margr1134\margt1134\margb1134 
+\deftab708\widowctrl\ftnbj\aenddoc\hyphhotz425\lytprtmet\hyphcaps0\formshade\viewkind4\viewscale92\pgbrdrhead\pgbrdrfoot \fet0\sectd \binfsxn269\binsxn269\psz1\linex0\headery709\footery709\colsx709\endnhere\sectdefaultcl {\*\pnseclvl1
+\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5
+\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \qc\nowidctlpar\widctlpar\adjustright \fs20\lang1034\cgrid {\b\fs24 EXAMEN FINAL ASIGNATURA PROGRAMACI\'d3N
+\par }{\fs24 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\fs24 Licenciatura en Ciencia de la Computaci\'f3n, Universidad de la Habana, Curso 96-97
+\par 
+\par M\'e1ximo 30 puntos. Condici\'f3n suficiente de aprobado >= 20 puntos.
+\par 
+\par {\pntext\pard\plain\fs20\lang1034\cgrid \hich\af0\dbch\af0\loch\f0 1) \tab}}\pard \fi-283\li283\nowidctlpar\widctlpar{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0\pndec\pnb0\pni0\pnfs20\pnstart1\pnindent283\pnhang{\pntxta ) }}\ls1\adjustright {\fs24 
+(5 puntos) Dada las definiciones 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\fs24 
+\par }\trowd \trgaph70\trleft-70 \clvertalt\cltxlrtb \cellx4253\clvertalt\cltxlrtb \cellx8908\pard \li708\nowidctlpar\widctlpar\intbl\adjustright {\cs15\fs24 type TNODO = class
+\par     valor:string;
+\par     cant_hijos:word;
+\par     hijos:TNODO;
+\par     hermanos:TNODO
+\par end;
+\par }\pard \nowidctlpar\widctlpar\intbl\adjustright {\cs15\fs24 \cell }\pard \li708\nowidctlpar\widctlpar\intbl\adjustright {\cs15\fs24 type TPSEUDO_ARBOL = class
+\par     private
+\par         raiz: TNODO
+\par     public
+\par         function hijo_i(i:word): TPSEUDO_ARBOL;
+\par         function total_hijos:word;
+\par         fucntion tiene_ciclos:boolean;
+\par         ...
+\par end}{\fs24 \cell }\pard \nowidctlpar\widctlpar\intbl\adjustright {\fs24 \row }\pard \nowidctlpar\widctlpar\adjustright {\fs24 
+\par Programe la funcion }{\cs15\fs24 tiene_ciclos}{\fs24  que debe devolver }{\cs15\fs24 true}{\fs24  si el supuesto \'e1rbol tiene alg\'fan ciclo, es decir, a partir de alg\'fan hijo de un nodo se vuelve a llegar al nodo. (5 puntos).
+\par 
+\par {\pntext\pard\plain\fs20\lang1034\cgrid \hich\af0\dbch\af0\loch\f0 2) \tab}}\pard \fi-283\li283\nowidctlpar\widctlpar{\*\pn \pnlvlbody\ilvl0\ls2\pnrnot0\pndec\pnb0\pni0\pnfs20\pnstart2\pnindent283\pnhang{\pntxta ) }}\ls2\adjustright {\fs24 
+(10 puntos) Complete la implementaci\'f3n de una clase }{\cs15\fs24 TDICC_SINONIMOS}{\fs24  para que tenga las siguientes funciones o procedimientos.
+\par }\pard \li708\nowidctlpar\widctlpar\adjustright {\cs15\fs24 crea}{\fs24 
+\par }{\cs15\fs24 inserta_par(palabra1:string; palabra2:string);}{\fs24  Indica a la }{\cs15\fs24 palabra1}{\fs24  como sin\'f3nimo de }{\cs15\fs24 palabra2}{\fs24  y a la }{\cs15\fs24 palabra2}{\fs24  como sin\'f3nimo de }{\cs15\fs24 palabra1}{\fs24 
+\par }{\cs15\fs24 rompe_par(palabra1:string; palabra2:string);}{\fs24  Indica que si }{\cs15\fs24 palabra1}{\fs24  y }{\cs15\fs24 palabra2}{\fs24  son sin\'f3nimos ya no lo son m\'e1s.
+\par }{\cs15\fs24 lista_sinonimos(palabra:string);}{\fs24  lista todos los sin\'f3nimos de }{\cs15\fs24 palabra}{\fs24 
+\par }{\cs15\fs24 cuantos(palabra:string);}{\fs24  devuelve cu\'e1ntos sin\'f3nimos tiene }{\cs15\fs24 palabra}{\fs24 .
+\par }{\cs15\fs24 total_palabras:word;}{\fs24  total de palabras en el diccionario
+\par }\pard \nowidctlpar\widctlpar\adjustright {\fs24 Nota: 
+\par {\pntext\pard\plain\f3\lang1034\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-283\li283\nowidctlpar\widctlpar{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0\pnf3\pnstart1\pnindent283\pnhang{\pntxtb \'b7}}\ls3\adjustright {\fs24 Una palabra puede tener m\'e1
+s de un sin\'f3nimo.
+\par {\pntext\pard\plain\f3\lang1034\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-283\li283\nowidctlpar\widctlpar{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0\pnf3\pnstart1\pnindent283\pnhang{\pntxtb \'b7}}\ls3\adjustright {\fs24 Si A es sin\'f3ni
+mo de B y se introduce B como sin\'f3nimo de C eso no significa que A se convierte en sin\'f3nimo de C.
+\par {\pntext\pard\plain\f3\lang1034\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-283\li283\nowidctlpar\widctlpar{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0\pnf3\pnstart1\pnindent283\pnhang{\pntxtb \'b7}}\ls3\adjustright {\fs24 
+En el diccionario no pueden haber palabras sin al menos un sin\'f3nimo.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\fs24 
+\par {\pntext\pard\plain\fs20\lang1034\cgrid \hich\af0\dbch\af0\loch\f0 3) \tab}}\pard \fi-283\li283\nowidctlpar\widctlpar{\*\pn \pnlvlbody\ilvl0\ls4\pnrnot0\pndec\pnb0\pni0\pnfs20\pnstart3\pnindent283\pnhang{\pntxta ) }}\ls4\adjustright {\fs24 
+(10 puntos) Considere un tipo de objetos }{\cs15\fs24 TPERSONA}{\fs24  que tiene, entre otras, las funciones siguientes
+\par }\pard \li708\nowidctlpar\widctlpar\adjustright {\cs15\fs24 function prioridad:word; }{\fs24 devuelve un entero positivo que es la }{\i\fs24 propiedad}{\fs24  de la persona
+\par }{\cs15\fs24 function es_amigo(p: TPERSONA):boolean;}{\fs24  devuelve }{\cs15\fs24 true}{\fs24  si es amigo de }{\cs15\fs24 p}{\fs24 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\fs24 Defina e implemente una jerarqu\'eda de clases para }{\i\fs24 colas}{\fs24  que considere tres categor\'edas de colas: }{\i\fs24 cola normal}{\fs24 
+ (las personas van saliendo en el mismo orden en que van llegando), }{\i\fs24 cola con prioridad}{\fs24  la persona al llegar se pone en la cola seg\'fan su prioridad (empezando por los de mayor prioridad) pero detr\'e1s de los que tengan igual priorid
+ad que \'e9l, }{\i\fs24 cola de amigos}{\fs24  la persona se pone delante del primer amigo m\'e1s cerca de la salida de la cola.
+\par Nota:
+\par {\pntext\pard\plain\f3\lang1034\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-283\li283\nowidctlpar\widctlpar{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0\pnf3\pnstart1\pnindent283\pnhang{\pntxtb \'b7}}\ls3\adjustright {\fs24 Precise en la jerarqu\'ed
+a si hay funciones que deben ser abstractas y virtuales.
+\par {\pntext\pard\plain\f3\lang1034\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-283\li283\nowidctlpar\widctlpar{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0\pnf3\pnstart1\pnindent283\pnhang{\pntxtb \'b7}}\ls3\adjustright {\fs24 Cuide de no repetir programaci
+\'f3n, cuide de poner en los niveles m\'e1s altos de la jerarqu\'eda las funciones y procedimientos que no dependen del tipo de cola.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\fs24 
+\par {\pntext\pard\plain\fs20\lang1034\cgrid \hich\af0\dbch\af0\loch\f0 4) \tab}}\pard \fi-283\li283\nowidctlpar\widctlpar{\*\pn \pnlvlbody\ilvl0\ls5\pnrnot0\pndec\pnb0\pni0\pnfs20\pnstart4\pnindent283\pnhang{\pntxta ) }}\ls5\adjustright {\fs24 
+Responda verdadero o falso. M\'e1ximo 5 puntos (1 punto por respuesta correcta, 0 por respuesta en blanco, -1 por respuesta incorrecta). Sobre esta pregunta 4 no puede hacer preguntas al profesor.
+\par {\pntext\pard\plain\f3\lang1034\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-283\li991\nowidctlpar\widctlpar{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0\pnf3\pnstart1\pnindent283\pnhang{\pntxtb \'b7}}\ls3\adjustright {\fs24 Si una variable }{\cs15\fs24 x}{
+\fs24  es de tipo }{\cs15\fs24 T}{\fs24  y otra variable }{\cs15\fs24 y}{\fs24  es de tipo }{\cs15\fs24 T1}{\fs24 , donde}{\cs15\fs24  T1}{\fs24  hereda de}{\cs15\fs24  T}{\fs24 , podemos hacer }{\cs15\fs24 y:=x}{\fs24 
+\par {\pntext\pard\plain\f3\lang1034\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-283\li991\nowidctlpar\widctlpar{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0\pnf3\pnstart1\pnindent283\pnhang{\pntxtb \'b7}}\ls3\adjustright {\fs24 
+En Pascal hay situaciones en las que una funci\'f3n o procedimiento que no sea de una clase T puede sin embargo referirse a componentes privadas de un objeto de tipo T.
+\par {\pntext\pard\plain\f3\lang1034\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-283\li991\nowidctlpar\widctlpar{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0\pnf3\pnstart1\pnindent283\pnhang{\pntxtb \'b7}}\ls3\adjustright {\fs24 
+La ventaja de la recursividad es que los programas ejecutan m\'e1s r\'e1pido.
+\par {\pntext\pard\plain\f3\lang1034\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-283\li991\nowidctlpar\widctlpar{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0\pnf3\pnstart1\pnindent283\pnhang{\pntxtb \'b7}}\ls3\adjustright {\fs24 Una funci\'f3
+n o procedimiento de una clase es privada entonces nadie la puede llamar 
+\par {\pntext\pard\plain\f3\lang1034\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-283\li991\nowidctlpar\widctlpar{\*\pn \pnlvlblt\ilvl0\ls3\pnrnot0\pnf3\pnstart1\pnindent283\pnhang{\pntxtb \'b7}}\ls3\adjustright {\fs24 El m\'e9todo m\'e1s r\'e1
+pido para buscar un elemento en un arreglo de }{\i\fs24 n}{\fs24  elementos ordenados demora un tiempo proporcional menor que }{\fs24 {\field{\*\fldinst SYMBOL 118 \\f "Courier New" \\s 12}{\fldrslt\f2\fs24}}}{\fs24  }{\i\fs24 n }{\fs24 (ra\'ed
+z cuadrada de n)
+\par }\pard \nowidctlpar\widctlpar\adjustright {\fs24 
+\par }\pard \qc\nowidctlpar\widctlpar\adjustright {\i\fs24 \'a1\'a1\'a1GANGA !!!!
+\par }\pard \nowidctlpar\widctlpar\adjustright {\i\fs24 G\'e1nese 3 puntos extra si justifica (a favor o en contra) si puede prescindirse de la condicional if then, if then else, de Pascal y usar s\'f3lo ciclos.
+\par }}

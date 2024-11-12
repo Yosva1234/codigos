@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AgnPVQlSzcMhWis+dspqMtp5wFWohFfV/2t6yNZsW7q6in4U0RMPGCTw+YKRfzhAeFFDCz6hHHW3D/IaHSGZOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Examen\\Naves.Espaciales\\exam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

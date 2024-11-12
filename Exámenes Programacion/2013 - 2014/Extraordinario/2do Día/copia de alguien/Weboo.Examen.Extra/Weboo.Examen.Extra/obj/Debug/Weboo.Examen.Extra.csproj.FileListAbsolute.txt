@@ -1,0 +1,10 @@
+D:\Escuela\Pro\Pruebas\Pruebas muy completas\2013-2014\Extraordinario\2do Día\CXXX Nombre Apellido1 Apellido2\Weboo.Examen.Extra\Weboo.Examen.Extra\bin\Debug\Weboo.Examen.Extra.dll
+D:\Escuela\Pro\Pruebas\Pruebas muy completas\2013-2014\Extraordinario\2do Día\CXXX Nombre Apellido1 Apellido2\Weboo.Examen.Extra\Weboo.Examen.Extra\bin\Debug\Weboo.Examen.Extra.pdb
+D:\Escuela\Pro\Pruebas\Pruebas muy completas\2013-2014\Extraordinario\2do Día\CXXX Nombre Apellido1 Apellido2\Weboo.Examen.Extra\Weboo.Examen.Extra\obj\Debug\Weboo.Examen.Extra.csprojResolveAssemblyReference.cache
+D:\Escuela\Pro\Pruebas\Pruebas muy completas\2013-2014\Extraordinario\2do Día\CXXX Nombre Apellido1 Apellido2\Weboo.Examen.Extra\Weboo.Examen.Extra\obj\Debug\Weboo.Examen.Extra.dll
+D:\Escuela\Pro\Pruebas\Pruebas muy completas\2013-2014\Extraordinario\2do Día\CXXX Nombre Apellido1 Apellido2\Weboo.Examen.Extra\Weboo.Examen.Extra\obj\Debug\Weboo.Examen.Extra.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2013 - 2014\Extraordinario\2do Día\Hermanos en desacuerdo\Weboo.Examen.Extra\Weboo.Examen.Extra\bin\Debug\Weboo.Examen.Extra.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2013 - 2014\Extraordinario\2do Día\Hermanos en desacuerdo\Weboo.Examen.Extra\Weboo.Examen.Extra\bin\Debug\Weboo.Examen.Extra.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2013 - 2014\Extraordinario\2do Día\Hermanos en desacuerdo\Weboo.Examen.Extra\Weboo.Examen.Extra\obj\Debug\Weboo.Examen.Extra.csprojResolveAssemblyReference.cache
+C:\Users\juanc\Desktop\Exámenes Programacion\2013 - 2014\Extraordinario\2do Día\Hermanos en desacuerdo\Weboo.Examen.Extra\Weboo.Examen.Extra\obj\Debug\Weboo.Examen.Extra.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2013 - 2014\Extraordinario\2do Día\Hermanos en desacuerdo\Weboo.Examen.Extra\Weboo.Examen.Extra\obj\Debug\Weboo.Examen.Extra.pdb

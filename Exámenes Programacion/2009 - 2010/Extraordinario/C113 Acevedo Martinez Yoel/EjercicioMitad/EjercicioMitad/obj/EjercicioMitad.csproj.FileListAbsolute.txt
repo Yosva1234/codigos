@@ -1,0 +1,6 @@
+D:\Documents and Settings\Luis\My Documents\Visual Studio 2005\Projects\EjercicioMitad\EjercicioMitad\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Luis\My Documents\Visual Studio 2005\Projects\EjercicioMitad\EjercicioMitad\bin\Debug\EjercicioMitad.dll
+D:\Documents and Settings\Luis\My Documents\Visual Studio 2005\Projects\EjercicioMitad\EjercicioMitad\bin\Debug\EjercicioMitad.pdb
+D:\Documents and Settings\Luis\My Documents\Visual Studio 2005\Projects\EjercicioMitad\EjercicioMitad\bin\Debug\LibEjercicioMitad.dll
+D:\Documents and Settings\Luis\My Documents\Visual Studio 2005\Projects\EjercicioMitad\EjercicioMitad\obj\Debug\EjercicioMitad.dll
+D:\Documents and Settings\Luis\My Documents\Visual Studio 2005\Projects\EjercicioMitad\EjercicioMitad\obj\Debug\EjercicioMitad.pdb

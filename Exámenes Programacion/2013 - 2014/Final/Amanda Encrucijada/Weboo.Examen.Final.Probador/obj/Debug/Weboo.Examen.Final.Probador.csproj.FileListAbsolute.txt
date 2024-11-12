@@ -1,0 +1,9 @@
+D:\Escuela\Programacion\1er Año\Pruebas nuevas\2013-2014\Final\Weboo.Examen.Final\Weboo.Examen.Final.Probador\bin\Debug\Weboo.Examen.Final.Probador.exe
+D:\Escuela\Programacion\1er Año\Pruebas nuevas\2013-2014\Final\Weboo.Examen.Final\Weboo.Examen.Final.Probador\bin\Debug\Weboo.Examen.Final.Probador.pdb
+D:\Escuela\Programacion\1er Año\Pruebas nuevas\2013-2014\Final\Weboo.Examen.Final\Weboo.Examen.Final.Probador\bin\Debug\Weboo.Examen.Final.dll
+D:\Escuela\Programacion\1er Año\Pruebas nuevas\2013-2014\Final\Weboo.Examen.Final\Weboo.Examen.Final.Probador\bin\Debug\Weboo.Examen.Final.pdb
+D:\Escuela\Programacion\1er Año\Pruebas nuevas\2013-2014\Final\Weboo.Examen.Final\Weboo.Examen.Final.Probador\obj\Debug\Weboo.Examen.Final.Probador.csprojResolveAssemblyReference.cache
+D:\Escuela\Programacion\1er Año\Pruebas nuevas\2013-2014\Final\Weboo.Examen.Final\Weboo.Examen.Final.Probador\obj\Debug\Weboo.Examen.Final.Probador.exe
+D:\Escuela\Programacion\1er Año\Pruebas nuevas\2013-2014\Final\Weboo.Examen.Final\Weboo.Examen.Final.Probador\obj\Debug\Weboo.Examen.Final.Probador.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2013 - 2014\Final\Amanda Encrucijada\Weboo.Examen.Final.Probador\obj\Debug\Weboo.Examen.Final.Probador.exe
+C:\Users\juanc\Desktop\Exámenes Programacion\2013 - 2014\Final\Amanda Encrucijada\Weboo.Examen.Final.Probador\obj\Debug\Weboo.Examen.Final.Probador.pdb

@@ -1,0 +1,4 @@
+namespace: OrugaNumerica
+clase: Principal
+método: public static int[] ReduceOruga(int[] anillas);
+

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<assembly path="ProblemaLista.dll">
+  <!-- ejemplo tipo generico: ListaMinima<T> usar ListaMinima`1-->
+  <type fullName="ProblemaLista.ListaMinima`1">
+    <implementedInterface name="IListaMinima`1"/>
+  </type>
+</assembly>
+
+<!-- Ejemplo:
+
+<assembly path="test.dll">
+  <type fullName="Test.Class1">
+    <method name="TalMetodo" returnTypeFullName="System.Void" static="true">
+      <parameter typeFullName="System.String"/>
+      <parameter typeFullName="System.Int32"/>
+    </method>
+  </type>
+</assembly>
+
+Ejemplos de FullNames de algunos tipos
+
+void          System.Void
+int           System.Int32
+bool          System.Boolean
+string        System.String
+string[]      System.String[]
+string[,]     System.String[,]
+
+-->

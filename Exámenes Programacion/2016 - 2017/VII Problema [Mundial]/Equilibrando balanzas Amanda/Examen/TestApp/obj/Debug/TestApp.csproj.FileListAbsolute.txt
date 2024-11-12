@@ -1,0 +1,27 @@
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\TestApp\bin\Debug\TestApp.exe
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\TestApp\bin\Debug\TestApp.pdb
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\TestApp\bin\Debug\Balanzas.dll
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\TestApp\bin\Debug\Weboo.Examen.dll
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\TestApp\bin\Debug\Balanzas.pdb
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\TestApp\bin\Debug\Weboo.Examen.pdb
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\TestApp\obj\Debug\TestApp.exe
+d:\documentos\visual studio 2015\Projects\Equilibrando Balanzas\TestApp\obj\Debug\TestApp.pdb
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\TestApp\obj\Debug\TestApp.exe
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\TestApp\obj\Debug\TestApp.pdb
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\TestApp\bin\Debug\TestApp.exe
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\TestApp\bin\Debug\TestApp.pdb
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\TestApp\bin\Debug\Balanzas.dll
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\TestApp\bin\Debug\Weboo.Examen.dll
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\TestApp\bin\Debug\Balanzas.pdb
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\TestApp\bin\Debug\Weboo.Examen.pdb
+D:\Cibernética\Alumno Ayudante\Alumno Ayudante 5\examen mundial\Examen Mundial Dia 1\Equilibrando Balanzas\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\mundial\C11X Nombre y Apellidos\Examen\TestApp\obj\Debug\TestApp.exe
+D:\mundial\C11X Nombre y Apellidos\Examen\TestApp\obj\Debug\TestApp.pdb
+D:\mundial\C11X Nombre y Apellidos\Examen\TestApp\bin\Debug\TestApp.exe
+D:\mundial\C11X Nombre y Apellidos\Examen\TestApp\bin\Debug\TestApp.pdb
+D:\mundial\C11X Nombre y Apellidos\Examen\TestApp\bin\Debug\Balanzas.dll
+D:\mundial\C11X Nombre y Apellidos\Examen\TestApp\bin\Debug\Weboo.Examen.dll
+D:\mundial\C11X Nombre y Apellidos\Examen\TestApp\bin\Debug\Weboo.Examen.pdb
+D:\mundial\C11X Nombre y Apellidos\Examen\TestApp\bin\Debug\Balanzas.pdb
+D:\mundial\C11X Nombre y Apellidos\Examen\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weboo.Examen.Extraordinario", "Weboo.Examen.Extraordinario\Weboo.Examen.Extraordinario.csproj", "{FCF5D3BC-054D-4C7E-8A96-FCDB5773573B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probador", "Probador\Probador.csproj", "{0F522CE2-E1AC-44F0-95E0-6FA8776B38ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF5D3BC-054D-4C7E-8A96-FCDB5773573B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF5D3BC-054D-4C7E-8A96-FCDB5773573B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF5D3BC-054D-4C7E-8A96-FCDB5773573B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF5D3BC-054D-4C7E-8A96-FCDB5773573B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F522CE2-E1AC-44F0-95E0-6FA8776B38ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F522CE2-E1AC-44F0-95E0-6FA8776B38ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F522CE2-E1AC-44F0-95E0-6FA8776B38ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F522CE2-E1AC-44F0-95E0-6FA8776B38ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Final\Problema Camino y posteriores\CaminoPosteriores\CaminosYPosteriors\bin\Debug\CaminosYPosteriors.exe
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Final\Problema Camino y posteriores\CaminoPosteriores\CaminosYPosteriors\bin\Debug\CaminosYPosteriors.pdb
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Final\Problema Camino y posteriores\CaminoPosteriores\CaminosYPosteriors\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Final\Problema Camino y posteriores\CaminoPosteriores\CaminosYPosteriors\obj\x86\Debug\CaminosYPosteriors.exe
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Final\Problema Camino y posteriores\CaminoPosteriores\CaminosYPosteriors\obj\x86\Debug\CaminosYPosteriors.pdb

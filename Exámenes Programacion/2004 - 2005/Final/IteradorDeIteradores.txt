@@ -1,0 +1,7 @@
+namespace: IteradorDeIteradores
+clase: Principal
+método: public static IEnumerator IteradorMultiple(params IEnumerator[] e);
+
+hay que ir iterando por los elementos iteradores dando todos los currents a la vez.
+ej: {p,u,w,y,t},{t,z,r,d},{h,n,m}.
+resultado {p,t,h},{u,z,n},{w,r,m},{y,d},{t}.

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SubArbolesIguales">
+</Property><Property Name="Solution File" Value="D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Extraordinario\Subarboles iguales\SubArbolesIguales\SubArbolesIguales.sln">
+</Property><Property Name="User Options File" Value="D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Extraordinario\Subarboles iguales\SubArbolesIguales\SubArbolesIguales.suo">
+</Property><Property Name="Date" Value="martes, 02 de agosto de 2011">
+</Property><Property Name="Time" Value="22:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SubArbolesIguales.sln" Description="File successfully backed up as D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Extraordinario\Subarboles iguales\SubArbolesIguales\Backup\SubArbolesIguales.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SubArbolesIguales.suo" Description="File successfully backed up as D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Extraordinario\Subarboles iguales\SubArbolesIguales\Backup\SubArbolesIguales.suo">
+</Event><Event ErrorLevel="2" Project="SubArbolesIguales" Source="SubArbolesIguales\SubArbolesIguales.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="" Source="SubArbolesIguales.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SubArbolesIguales.sln" Description="Converted">
+</Event></UpgradeLog>

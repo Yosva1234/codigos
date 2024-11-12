@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ExamenMundial">
+</Property><Property Name="Solution File" Value="D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Mundial\Hermandad\CXXX PrimerApellido SegundoApellido Nombre\ExamenMundial.sln">
+</Property><Property Name="User Options File" Value="D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Mundial\Hermandad\CXXX PrimerApellido SegundoApellido Nombre\ExamenMundial.suo">
+</Property><Property Name="Date" Value="miércoles, 03 de agosto de 2011">
+</Property><Property Name="Time" Value="20:05">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ExamenMundial.sln" Description="File successfully backed up as D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Mundial\Hermandad\CXXX PrimerApellido SegundoApellido Nombre\Backup\ExamenMundial.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ExamenMundial.suo" Description="File successfully backed up as D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Mundial\Hermandad\CXXX PrimerApellido SegundoApellido Nombre\Backup\ExamenMundial.suo">
+</Event><Event ErrorLevel="0" Project="ExamenMundial" Source="ExamenMundial\ExamenMundial.csproj" Description="Project file successfully backed up as D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Mundial\Hermandad\CXXX PrimerApellido SegundoApellido Nombre\Backup\ExamenMundial\ExamenMundial.csproj">
+</Event><Event ErrorLevel="0" Project="ExamenMundial" Source="ExamenMundial\Class1.cs" Description="File successfully backed up as D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Mundial\Hermandad\CXXX PrimerApellido SegundoApellido Nombre\Backup\ExamenMundial\Class1.cs">
+</Event><Event ErrorLevel="2" Project="ExamenMundial" Source="ExamenMundial\Properties\AssemblyInfo.cs" Description="Failed to backup file as D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Mundial\Hermandad\CXXX PrimerApellido SegundoApellido Nombre\Backup\ExamenMundial\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="ExamenMundial" Source="ExamenMundial\ExamenMundial.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="ExamenMundial" Source="ExamenMundial\ExamenMundial.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ExamenMundial" Source="ExamenMundial\ExamenMundial.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ExamenMundial.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ExamenMundial.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ExamenMundial" Source="ExamenMundial\ExamenMundial.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

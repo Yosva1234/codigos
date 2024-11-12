@@ -1,0 +1,13 @@
+W:\Curso 2010-2011\Segundo Trabajo de Control\Envolviendo Matrices (2008)\EnvolviendoMatrices\bin\Debug\EnvolviendoMatrices.dll
+W:\Curso 2010-2011\Segundo Trabajo de Control\Envolviendo Matrices (2008)\EnvolviendoMatrices\bin\Debug\EnvolviendoMatrices.pdb
+W:\Curso 2010-2011\Segundo Trabajo de Control\Envolviendo Matrices (2008)\EnvolviendoMatrices\bin\Debug\Matrices.dll
+W:\Curso 2010-2011\Segundo Trabajo de Control\Envolviendo Matrices (2008)\EnvolviendoMatrices\bin\Debug\Matrices.pdb
+W:\Curso 2010-2011\Segundo Trabajo de Control\Envolviendo Matrices (2008)\EnvolviendoMatrices\obj\Debug\ResolveAssemblyReference.cache
+W:\Curso 2010-2011\Segundo Trabajo de Control\Envolviendo Matrices (2008)\EnvolviendoMatrices\obj\Debug\EnvolviendoMatrices.dll
+W:\Curso 2010-2011\Segundo Trabajo de Control\Envolviendo Matrices (2008)\EnvolviendoMatrices\obj\Debug\EnvolviendoMatrices.pdb
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\CXXX - Nombre Apellido1 Apellido2\bin\Debug\EnvolviendoMatrices.dll
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\CXXX - Nombre Apellido1 Apellido2\bin\Debug\EnvolviendoMatrices.pdb
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\CXXX - Nombre Apellido1 Apellido2\bin\Debug\Matrices.pdb
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\CXXX - Nombre Apellido1 Apellido2\obj\Debug\ResolveAssemblyReference.cache
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\CXXX - Nombre Apellido1 Apellido2\obj\Debug\EnvolviendoMatrices.dll
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\CXXX - Nombre Apellido1 Apellido2\obj\Debug\EnvolviendoMatrices.pdb

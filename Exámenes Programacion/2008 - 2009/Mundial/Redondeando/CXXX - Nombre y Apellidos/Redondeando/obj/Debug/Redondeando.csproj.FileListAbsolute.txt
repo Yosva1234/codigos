@@ -1,0 +1,6 @@
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Mundial\Redondeando\CXXX - Nombre y Apellidos\Redondeando\obj\Debug\ResolveAssemblyReference.cache
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Mundial\Redondeando\CXXX - Nombre y Apellidos\Redondeando\obj\Debug\Redondeando.dll
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Mundial\Redondeando\CXXX - Nombre y Apellidos\Redondeando\bin\Debug\Redondeando.dll
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Mundial\Redondeando\CXXX - Nombre y Apellidos\Redondeando\bin\Debug\Redondeando.pdb
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Mundial\Redondeando\CXXX - Nombre y Apellidos\Redondeando\bin\Debug\Weboo.Quadtries.dll
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2008 - 2009\Mundial\Redondeando\CXXX - Nombre y Apellidos\Redondeando\obj\Debug\Redondeando.pdb

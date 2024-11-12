@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="EnvolviendoMatrices">
+</Property><Property Name="Solution File" Value="D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\CXXX - Nombre Apellido1 Apellido2\EnvolviendoMatrices.sln">
+</Property><Property Name="User Options File" Value="D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\CXXX - Nombre Apellido1 Apellido2\EnvolviendoMatrices.suo">
+</Property><Property Name="Date" Value="martes, 26 de julio de 2011">
+</Property><Property Name="Time" Value="22:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="EnvolviendoMatrices.sln" Description="File successfully backed up as D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\CXXX - Nombre Apellido1 Apellido2\Backup\EnvolviendoMatrices.sln">
+</Event><Event ErrorLevel="0" Project="" Source="EnvolviendoMatrices.suo" Description="File successfully backed up as D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\CXXX - Nombre Apellido1 Apellido2\Backup\EnvolviendoMatrices.suo">
+</Event><Event ErrorLevel="0" Project="EnvolviendoMatrices" Source="EnvolviendoMatrices.csproj" Description="Project file successfully backed up as D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\CXXX - Nombre Apellido1 Apellido2\Backup\EnvolviendoMatrices.csproj">
+</Event><Event ErrorLevel="0" Project="EnvolviendoMatrices" Source="Prueba.cs" Description="File successfully backed up as D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\CXXX - Nombre Apellido1 Apellido2\Backup\Prueba.cs">
+</Event><Event ErrorLevel="0" Project="EnvolviendoMatrices" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\CXXX - Nombre Apellido1 Apellido2\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="EnvolviendoMatrices" Source="EnvolviendoMatrices.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="EnvolviendoMatrices" Source="EnvolviendoMatrices.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="EnvolviendoMatrices.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="EnvolviendoMatrices.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="EnvolviendoMatrices" Source="EnvolviendoMatrices.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

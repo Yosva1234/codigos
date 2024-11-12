@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen", "Examen\Examen.csproj", "{8F3779D2-D657-47CF-851F-62712458765D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probador", "Probador\Probador.csproj", "{1CE1766D-8CD7-42B0-BF8E-B0E50637D720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F3779D2-D657-47CF-851F-62712458765D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3779D2-D657-47CF-851F-62712458765D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3779D2-D657-47CF-851F-62712458765D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3779D2-D657-47CF-851F-62712458765D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE1766D-8CD7-42B0-BF8E-B0E50637D720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE1766D-8CD7-42B0-BF8E-B0E50637D720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE1766D-8CD7-42B0-BF8E-B0E50637D720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE1766D-8CD7-42B0-BF8E-B0E50637D720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

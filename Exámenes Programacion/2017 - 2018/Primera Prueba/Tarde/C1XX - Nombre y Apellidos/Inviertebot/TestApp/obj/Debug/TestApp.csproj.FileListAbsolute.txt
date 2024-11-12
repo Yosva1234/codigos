@@ -1,0 +1,9 @@
+C:\Users\Jean\source\repos\Inviertebot\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Jean\source\repos\Inviertebot\TestApp\bin\Debug\TestApp.exe
+C:\Users\Jean\source\repos\Inviertebot\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Jean\source\repos\Inviertebot\TestApp\bin\Debug\Weboo.Examen.dll
+C:\Users\Jean\source\repos\Inviertebot\TestApp\bin\Debug\Weboo.Examen.pdb
+C:\Users\Jean\source\repos\Inviertebot\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Jean\source\repos\Inviertebot\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\Inviertebot\TestApp\obj\Debug\TestApp.exe
+C:\Users\Jean\source\repos\Inviertebot\TestApp\obj\Debug\TestApp.pdb

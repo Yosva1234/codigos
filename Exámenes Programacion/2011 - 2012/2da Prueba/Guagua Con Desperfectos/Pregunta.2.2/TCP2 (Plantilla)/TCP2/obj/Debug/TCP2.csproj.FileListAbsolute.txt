@@ -1,0 +1,5 @@
+C:\Users\Dany\Documents\Visual Studio 2008\Projects\TCP2\TCP2\bin\Debug\TCP2.dll
+C:\Users\Dany\Documents\Visual Studio 2008\Projects\TCP2\TCP2\bin\Debug\TCP2.pdb
+C:\Users\Dany\Documents\Visual Studio 2008\Projects\TCP2\TCP2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dany\Documents\Visual Studio 2008\Projects\TCP2\TCP2\obj\Debug\TCP2.dll
+C:\Users\Dany\Documents\Visual Studio 2008\Projects\TCP2\TCP2\obj\Debug\TCP2.pdb

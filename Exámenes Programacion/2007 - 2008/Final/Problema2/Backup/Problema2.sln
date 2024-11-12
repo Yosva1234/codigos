@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema2", "Problema2.csproj", "{B3657570-0045-4483-BDC2-1C15EA25BF25}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbolPrueba", "..\ArbolPrueba\ArbolPrueba.csproj", "{F4049BAA-B12E-435E-BF13-293A563C4267}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B3657570-0045-4483-BDC2-1C15EA25BF25}.Debug.ActiveCfg = Debug|.NET
+		{B3657570-0045-4483-BDC2-1C15EA25BF25}.Debug.Build.0 = Debug|.NET
+		{B3657570-0045-4483-BDC2-1C15EA25BF25}.Release.ActiveCfg = Release|.NET
+		{B3657570-0045-4483-BDC2-1C15EA25BF25}.Release.Build.0 = Release|.NET
+		{F4049BAA-B12E-435E-BF13-293A563C4267}.Debug.ActiveCfg = Debug|.NET
+		{F4049BAA-B12E-435E-BF13-293A563C4267}.Debug.Build.0 = Debug|.NET
+		{F4049BAA-B12E-435E-BF13-293A563C4267}.Release.ActiveCfg = Release|.NET
+		{F4049BAA-B12E-435E-BF13-293A563C4267}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

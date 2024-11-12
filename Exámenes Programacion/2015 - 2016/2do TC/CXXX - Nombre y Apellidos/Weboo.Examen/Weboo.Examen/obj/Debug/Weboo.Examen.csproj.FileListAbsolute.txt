@@ -1,0 +1,5 @@
+d:\jj\documentos\visual studio 2015\Projects\Weboo.Examen\Weboo.Examen\bin\Debug\Weboo.Examen.dll
+d:\jj\documentos\visual studio 2015\Projects\Weboo.Examen\Weboo.Examen\bin\Debug\Weboo.Examen.pdb
+d:\jj\documentos\visual studio 2015\Projects\Weboo.Examen\Weboo.Examen\obj\Debug\Weboo.Examen.csprojResolveAssemblyReference.cache
+d:\jj\documentos\visual studio 2015\Projects\Weboo.Examen\Weboo.Examen\obj\Debug\Weboo.Examen.dll
+d:\jj\documentos\visual studio 2015\Projects\Weboo.Examen\Weboo.Examen\obj\Debug\Weboo.Examen.pdb

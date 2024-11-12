@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\Coding\pruebas\Recursividad\Solution\obj\Debug\net8.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Coding\pruebas\Recursividad\Solution\obj\Debug\net8.0\Solution.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Coding\pruebas\Recursividad\Solution\obj\Debug\net8.0\Solution.AssemblyInfo.cs
+C:\Users\Alex\Documents\Coding\pruebas\Recursividad\Solution\obj\Debug\net8.0\Solution.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Relaciones">
+</Property><Property Name="Solution File" Value="G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\3ra - Iteradores\Relaciones de equivalencia\Relaciones\Relaciones.sln">
+</Property><Property Name="User Options File" Value="G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\3ra - Iteradores\Relaciones de equivalencia\Relaciones\Relaciones.suo">
+</Property><Property Name="Date" Value="lunes, 27 de agosto de 2012">
+</Property><Property Name="Time" Value="1:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Relaciones.sln" Description="File successfully backed up as G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\3ra - Iteradores\Relaciones de equivalencia\Relaciones\Backup\Relaciones.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Relaciones.suo" Description="File successfully backed up as G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\3ra - Iteradores\Relaciones de equivalencia\Relaciones\Backup\Relaciones.suo">
+</Event><Event ErrorLevel="0" Project="Relaciones" Source="Relaciones\Relaciones.csproj" Description="Project file successfully backed up as G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\3ra - Iteradores\Relaciones de equivalencia\Relaciones\Backup\Relaciones\Relaciones.csproj">
+</Event><Event ErrorLevel="2" Project="Relaciones" Source="Relaciones\RelacionEq.cs" Description="Failed to backup file as G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\3ra - Iteradores\Relaciones de equivalencia\Relaciones\Backup\Relaciones\RelacionEq.cs">
+</Event><Event ErrorLevel="2" Project="Relaciones" Source="Relaciones\Properties\AssemblyInfo.cs" Description="Failed to backup file as G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\3ra - Iteradores\Relaciones de equivalencia\Relaciones\Backup\Relaciones\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Relaciones" Source="Relaciones\Relaciones.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Relaciones" Source="Relaciones\Relaciones.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Relaciones.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Relaciones.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Relaciones" Source="Relaciones\Relaciones.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

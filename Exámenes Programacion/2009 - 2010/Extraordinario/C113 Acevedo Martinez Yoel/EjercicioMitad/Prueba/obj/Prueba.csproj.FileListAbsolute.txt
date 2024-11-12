@@ -1,0 +1,8 @@
+D:\Documents and Settings\Luis\My Documents\Visual Studio 2005\Projects\EjercicioMitad\Prueba\bin\Debug\Prueba.exe
+D:\Documents and Settings\Luis\My Documents\Visual Studio 2005\Projects\EjercicioMitad\Prueba\bin\Debug\Prueba.pdb
+D:\Documents and Settings\Luis\My Documents\Visual Studio 2005\Projects\EjercicioMitad\Prueba\bin\Debug\EjercicioMitad.dll
+D:\Documents and Settings\Luis\My Documents\Visual Studio 2005\Projects\EjercicioMitad\Prueba\bin\Debug\LibEjercicioMitad.dll
+D:\Documents and Settings\Luis\My Documents\Visual Studio 2005\Projects\EjercicioMitad\Prueba\bin\Debug\EjercicioMitad.pdb
+D:\Documents and Settings\Luis\My Documents\Visual Studio 2005\Projects\EjercicioMitad\Prueba\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Luis\My Documents\Visual Studio 2005\Projects\EjercicioMitad\Prueba\obj\Debug\Prueba.exe
+D:\Documents and Settings\Luis\My Documents\Visual Studio 2005\Projects\EjercicioMitad\Prueba\obj\Debug\Prueba.pdb

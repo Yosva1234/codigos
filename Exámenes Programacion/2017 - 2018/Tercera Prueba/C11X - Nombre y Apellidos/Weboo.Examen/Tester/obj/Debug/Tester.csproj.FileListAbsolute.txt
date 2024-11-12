@@ -1,0 +1,9 @@
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2017 - 2018\Tercera Prueba\C11X - Nombre y Apellidos\Weboo.Examen\Tester\bin\Debug\Tester.exe.config
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2017 - 2018\Tercera Prueba\C11X - Nombre y Apellidos\Weboo.Examen\Tester\bin\Debug\Tester.exe
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2017 - 2018\Tercera Prueba\C11X - Nombre y Apellidos\Weboo.Examen\Tester\bin\Debug\Tester.pdb
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2017 - 2018\Tercera Prueba\C11X - Nombre y Apellidos\Weboo.Examen\Tester\bin\Debug\Weboo.Examen.dll
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2017 - 2018\Tercera Prueba\C11X - Nombre y Apellidos\Weboo.Examen\Tester\bin\Debug\Weboo.Examen.pdb
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2017 - 2018\Tercera Prueba\C11X - Nombre y Apellidos\Weboo.Examen\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2017 - 2018\Tercera Prueba\C11X - Nombre y Apellidos\Weboo.Examen\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2017 - 2018\Tercera Prueba\C11X - Nombre y Apellidos\Weboo.Examen\Tester\obj\Debug\Tester.exe
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2017 - 2018\Tercera Prueba\C11X - Nombre y Apellidos\Weboo.Examen\Tester\obj\Debug\Tester.pdb

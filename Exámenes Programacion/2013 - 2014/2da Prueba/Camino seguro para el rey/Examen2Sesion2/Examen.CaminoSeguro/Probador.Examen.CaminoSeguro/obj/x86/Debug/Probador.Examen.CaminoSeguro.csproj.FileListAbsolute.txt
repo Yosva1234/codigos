@@ -1,0 +1,7 @@
+D:\Pruebas muy completas\2013-2014\2da Prueba\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Probador.Examen.CaminoSeguro\obj\x86\Debug\Probador.Examen.CaminoSeguro.exe
+D:\Pruebas muy completas\2013-2014\2da Prueba\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Probador.Examen.CaminoSeguro\obj\x86\Debug\Probador.Examen.CaminoSeguro.pdb
+D:\Pruebas muy completas\2013-2014\2da Prueba\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Probador.Examen.CaminoSeguro\bin\Debug\Probador.Examen.CaminoSeguro.exe
+D:\Pruebas muy completas\2013-2014\2da Prueba\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Probador.Examen.CaminoSeguro\bin\Debug\Probador.Examen.CaminoSeguro.pdb
+D:\Pruebas muy completas\2013-2014\2da Prueba\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Probador.Examen.CaminoSeguro\bin\Debug\Examen.dll
+D:\Pruebas muy completas\2013-2014\2da Prueba\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Probador.Examen.CaminoSeguro\bin\Debug\Examen.pdb
+D:\Pruebas muy completas\2013-2014\2da Prueba\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Probador.Examen.CaminoSeguro\obj\x86\Debug\Probador.Examen.CaminoSeguro.csprojResolveAssemblyReference.cache

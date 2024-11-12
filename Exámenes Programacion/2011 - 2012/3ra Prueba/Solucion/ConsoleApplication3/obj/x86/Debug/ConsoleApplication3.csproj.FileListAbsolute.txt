@@ -1,0 +1,8 @@
+c:\documents and settings\caballerofamily\mis documentos\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\documents and settings\caballerofamily\mis documentos\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\documents and settings\caballerofamily\mis documentos\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\caballerofamily\mis documentos\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+c:\documents and settings\caballerofamily\mis documentos\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+D:\CIENCIA DE LA COMPUTACION\1er Año\Programación\Pruebas nuevas\2011-2012\Intra-3\Solucion\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+D:\CIENCIA DE LA COMPUTACION\1er Año\Programación\Pruebas nuevas\2011-2012\Intra-3\Solucion\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+D:\CIENCIA DE LA COMPUTACION\1er Año\Programación\Pruebas nuevas\2011-2012\Intra-3\Solucion\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache

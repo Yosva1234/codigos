@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvolviendoMatrices", "EnvolviendoMatrices.csproj", "{F200E70D-C16A-4228-A4D3-37B14024333D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F200E70D-C16A-4228-A4D3-37B14024333D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F200E70D-C16A-4228-A4D3-37B14024333D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F200E70D-C16A-4228-A4D3-37B14024333D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F200E70D-C16A-4228-A4D3-37B14024333D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

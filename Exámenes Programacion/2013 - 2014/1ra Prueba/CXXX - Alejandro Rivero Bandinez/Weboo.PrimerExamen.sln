@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weboo.PrimerExamen", "Weboo.PrimerExamen\Weboo.PrimerExamen.csproj", "{5A2319C7-5DFE-4FF9-A072-2BF252D5D0ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weboo.PrimerExamen.Tester", "Weboo.PrimerExamen.Tester\Weboo.PrimerExamen.Tester.csproj", "{1B2634AD-6E53-4A5D-BB01-41374CE3BBA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A2319C7-5DFE-4FF9-A072-2BF252D5D0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2319C7-5DFE-4FF9-A072-2BF252D5D0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2319C7-5DFE-4FF9-A072-2BF252D5D0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2319C7-5DFE-4FF9-A072-2BF252D5D0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2634AD-6E53-4A5D-BB01-41374CE3BBA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2634AD-6E53-4A5D-BB01-41374CE3BBA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2634AD-6E53-4A5D-BB01-41374CE3BBA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2634AD-6E53-4A5D-BB01-41374CE3BBA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

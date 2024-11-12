@@ -1,0 +1,6 @@
+bin\Debug\Redondeando.exe
+bin\Debug\Redondeando.pdb
+bin\Debug\QuadTree.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Redondeando.exe
+obj\Debug\Redondeando.pdb

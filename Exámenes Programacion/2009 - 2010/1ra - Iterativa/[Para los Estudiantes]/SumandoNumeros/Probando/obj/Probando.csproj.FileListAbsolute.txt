@@ -1,0 +1,7 @@
+D:\rai1000\Docencia\Curso 2009-2010\SumandoNumeros\Probando\bin\Debug\Probando.exe
+D:\rai1000\Docencia\Curso 2009-2010\SumandoNumeros\Probando\bin\Debug\Probando.pdb
+D:\rai1000\Docencia\Curso 2009-2010\SumandoNumeros\Probando\bin\Debug\SumandoNumeros.dll
+D:\rai1000\Docencia\Curso 2009-2010\SumandoNumeros\Probando\bin\Debug\SumandoNumeros.pdb
+D:\rai1000\Docencia\Curso 2009-2010\SumandoNumeros\Probando\obj\Debug\ResolveAssemblyReference.cache
+D:\rai1000\Docencia\Curso 2009-2010\SumandoNumeros\Probando\obj\Debug\Probando.exe
+D:\rai1000\Docencia\Curso 2009-2010\SumandoNumeros\Probando\obj\Debug\Probando.pdb

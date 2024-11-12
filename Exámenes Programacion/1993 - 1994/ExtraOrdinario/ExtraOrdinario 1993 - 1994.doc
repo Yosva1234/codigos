@@ -1,0 +1,117 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff2\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang3082\deflangfe3082{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f35\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f36\froman\fcharset238\fprq2 Times New Roman CE;}{\f37\froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f39\froman\fcharset161\fprq2 Times New Roman Greek;}{\f40\froman\fcharset162\fprq2 Times New Roman Tur;}{\f41\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f42\froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f43\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f44\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f56\fmodern\fcharset238\fprq1 Courier New CE;}{\f57\fmodern\fcharset204\fprq1 Courier New Cyr;}
+{\f59\fmodern\fcharset161\fprq1 Courier New Greek;}{\f60\fmodern\fcharset162\fprq1 Courier New Tur;}{\f61\fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f62\fmodern\fcharset178\fprq1 Courier New (Arabic);}
+{\f63\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f64\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f386\fswiss\fcharset238\fprq2 Tahoma CE;}{\f387\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f389\fswiss\fcharset161\fprq2 Tahoma Greek;}
+{\f390\fswiss\fcharset162\fprq2 Tahoma Tur;}{\f391\fswiss\fcharset177\fprq2 Tahoma (Hebrew);}{\f392\fswiss\fcharset178\fprq2 Tahoma (Arabic);}{\f393\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f394\fswiss\fcharset163\fprq2 Tahoma (Vietnamese);}
+{\f395\fswiss\fcharset222\fprq2 Tahoma (Thai);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 
+\f2\fs20\lang1034\langfe3082\cgrid\langnp1034\langfenp3082 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\*\cs15 \additive Fuente de encabezado predeter.;}{\s16\ql \fi-432\li720\ri0\widctlpar
+\tx-720\tx0\tqdec\tx720\hyphpar0\faauto\adjustright\rin0\lin720\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \snext16 Right Par 1;}{\s17\ql \fi-432\li1440\ri0\widctlpar
+\tx-720\tx0\tx720\tqdec\tx1440\hyphpar0\faauto\adjustright\rin0\lin1440\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \snext17 Right Par 2;}{\s18\ql \fi-432\li2160\ri0\widctlpar
+\tx-720\tx0\tx720\tx1440\tqdec\tx2160\hyphpar0\faauto\adjustright\rin0\lin2160\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \snext18 Right Par 3;}{\s19\ql \fi-432\li2880\ri0\widctlpar
+\tx-720\tx0\tx720\tx1440\tx2160\tqdec\tx2880\hyphpar0\faauto\adjustright\rin0\lin2880\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \snext19 Right Par 4;}{\s20\ql \fi-576\li3600\ri0\widctlpar
+\tx-720\tx0\tx720\tx1440\tx2160\tx2880\tqdec\tx3600\hyphpar0\faauto\adjustright\rin0\lin3600\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \snext20 Right Par 5;}{\s21\ql \fi-576\li4320\ri0\widctlpar
+\tx-720\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tqdec\tx4320\hyphpar0\faauto\adjustright\rin0\lin4320\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \snext21 Right Par 6;}{\s22\ql \fi-432\li5040\ri0\widctlpar
+\tx-720\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tqdec\tx5040\hyphpar0\faauto\adjustright\rin0\lin5040\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \snext22 Right Par 7;}{\s23\ql \fi-432\li5760\ri0\widctlpar
+\tx-720\tx0\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tqdec\tx5760\hyphpar0\faauto\adjustright\rin0\lin5760\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \snext23 Right Par 8;}{\*\cs24 \additive 
+\f2\fs20\lang1033\langfe0\langnp1033 \sbasedon15 Tech Init;}{\s25\ql \fi720\li0\ri0\widctlpar\tx-720\hyphpar0\faauto\adjustright\rin0\lin0\itap0 \b\f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \snext25 Technical 5;}{
+\s26\ql \fi720\li0\ri0\widctlpar\tx-720\hyphpar0\faauto\adjustright\rin0\lin0\itap0 \b\f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \snext26 Technical 6;}{\*\cs27 \additive \f2\fs20\lang1033\langfe0\langnp1033 \sbasedon15 Technical 2;}{\*
+\cs28 \additive \f2\fs20\lang1033\langfe0\langnp1033 \sbasedon15 Technical 3;}{\s29\ql \li0\ri0\widctlpar\tx-720\hyphpar0\faauto\adjustright\rin0\lin0\itap0 \b\f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \snext29 Technical 4;}{\*\cs30 
+\additive \f2\fs20\lang1033\langfe0\langnp1033 \sbasedon15 Technical 1;}{\s31\ql \fi720\li0\ri0\widctlpar\tx-720\hyphpar0\faauto\adjustright\rin0\lin0\itap0 \b\f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \snext31 Technical 7;}{
+\s32\ql \fi720\li0\ri0\widctlpar\tx-720\hyphpar0\faauto\adjustright\rin0\lin0\itap0 \b\f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \snext32 Technical 8;}{\*\cs33 \additive \f2\fs20\lang1033\langfe0\langnp1033 \sbasedon15 program;}{
+\s34\ql \fi-720\li720\ri720\sb480\widctlpar\tldot\tx9000\tqr\tx9360\hyphpar0\faauto\adjustright\rin720\lin720\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \sbasedon0 \snext0 \sautoupd \ssemihidden toc 1;}{
+\s35\ql \fi-720\li1440\ri720\widctlpar\tldot\tx9000\tqr\tx9360\hyphpar0\faauto\adjustright\rin720\lin1440\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \sbasedon0 \snext0 \sautoupd \ssemihidden toc 2;}{
+\s36\ql \fi-720\li2160\ri720\widctlpar\tldot\tx9000\tqr\tx9360\hyphpar0\faauto\adjustright\rin720\lin2160\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \sbasedon0 \snext0 \sautoupd \ssemihidden toc 3;}{
+\s37\ql \fi-720\li2880\ri720\widctlpar\tldot\tx9000\tqr\tx9360\hyphpar0\faauto\adjustright\rin720\lin2880\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \sbasedon0 \snext0 \sautoupd \ssemihidden toc 4;}{
+\s38\ql \fi-720\li3600\ri720\widctlpar\tldot\tx9000\tqr\tx9360\hyphpar0\faauto\adjustright\rin720\lin3600\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \sbasedon0 \snext0 \sautoupd \ssemihidden toc 5;}{
+\s39\ql \fi-720\li720\ri0\widctlpar\tx9000\tqr\tx9360\hyphpar0\faauto\adjustright\rin0\lin720\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \sbasedon0 \snext0 \sautoupd \ssemihidden toc 6;}{
+\s40\ql \fi-720\li720\ri0\widctlpar\hyphpar0\faauto\adjustright\rin0\lin720\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \sbasedon0 \snext0 \sautoupd \ssemihidden toc 7;}{\s41\ql \fi-720\li720\ri0\widctlpar
+\tx9000\tqr\tx9360\hyphpar0\faauto\adjustright\rin0\lin720\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \sbasedon0 \snext0 \sautoupd \ssemihidden toc 8;}{\s42\ql \fi-720\li720\ri0\widctlpar
+\tldot\tx9000\tqr\tx9360\hyphpar0\faauto\adjustright\rin0\lin720\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \sbasedon0 \snext0 \sautoupd \ssemihidden toc 9;}{\s43\ql \fi-1440\li1440\ri720\widctlpar
+\tldot\tx9000\tqr\tx9360\hyphpar0\faauto\adjustright\rin720\lin1440\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \sbasedon0 \snext43 \'edndice 1;}{\s44\ql \fi-720\li1440\ri720\widctlpar
+\tldot\tx9000\tqr\tx9360\hyphpar0\faauto\adjustright\rin720\lin1440\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \sbasedon0 \snext44 \'edndice 2;}{\s45\ql \li0\ri0\widctlpar
+\tx9000\tqr\tx9360\hyphpar0\faauto\adjustright\rin0\lin0\itap0 \f2\fs20\lang1033\langfe3082\cgrid\langnp1033\langfenp3082 \sbasedon0 \snext45 toa;}{\s46\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 
+\f2\fs24\lang1034\langfe3082\cgrid\langnp1034\langfenp3082 \sbasedon0 \snext46 ep\'edgrafe;}{\*\cs47 \additive _Equation Caption;}{\s48\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f35\fs16\lang1034\langfe3082\cgrid\langnp1034\langfenp3082 
+\sbasedon0 \snext48 \ssemihidden Balloon Text;}}{\*\rsidtbl \rsid4941229\rsid16736771}{\*\generator Microsoft Word 10.0.2627;}{\info{\title PROGRAMACION, EXAMEN EXTRADORDINARIO    CURSO 93-94         Univ de la Habana}{\author mkm}{\operator Invitado}
+{\creatim\yr1995\mo9\dy15\hr16\min34}{\revtim\yr2006\mo6\dy23\hr17\min30}{\printim\yr2002\mo6\dy15\hr15\min20}{\version13}{\edmins8}{\nofpages1}{\nofwords453}{\nofchars2495}{\*\company SEPSA}{\nofcharsws2943}{\vern16437}}
+\paperw15876\paperh20412\margl1134\margr1134\margt1134\margb2869 \widowctrl\ftnbj\aenddoc\hyphhotz950\notabind\wraptrsp\nocolbal\transmf\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\lytprtmet\hyphcaps0\horzdoc\dghspace120\dgvspace120
+\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale92\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl\rsidroot4941229 \fet0{\*\ftnsep \pard\plain \ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 
+\f2\fs20\lang1034\langfe3082\cgrid\langnp1034\langfenp3082 {\fs24\insrsid16736771 \chftnsep }{\insrsid16736771 
+\par }}{\*\aftnsep \pard\plain \ql \li0\ri0\sl-20\slmult0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f2\fs20\lang1034\langfe3082\cgrid\langnp1034\langfenp3082 {\fs24\insrsid16736771 
+\par }}{\*\aftnsepc \pard\plain \ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f2\fs20\lang1034\langfe3082\cgrid\langnp1034\langfenp3082 {\fs24\insrsid16736771  }{\insrsid16736771 
+\par }}{\*\aftncn \pard\plain \ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f2\fs20\lang1034\langfe3082\cgrid\langnp1034\langfenp3082 {\fs24\insrsid16736771  }{\insrsid16736771 
+\par }}\sectd \binfsxn4\binsxn4\psz14\pgnrestart\linex0\headery737\footery737\colsx709\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1 {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1 {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1 {\pntxta .}}{\*\pnseclvl4
+\pnlcltr\pnstart1 {\pntxta .}}{\*\pnseclvl5\pndec\pnstart1 {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1 {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1 {\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1 {\pntxta )}}{\*\pnseclvl9
+\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qj \li0\ri0\widctlpar\tx-1440\tx-720\hyphpar0\faauto\adjustright\rin0\lin0\itap0 \f2\fs20\lang1034\langfe3082\cgrid\langnp1034\langfenp3082 {
+\b\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 PROGRAMACION, EXAMEN EXTRADORDINARIO    CURSO 93-94         Univ de la Habana}{\field{\*\fldinst {\b\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 
+PRIVATE }{\b\f0\expnd0\expndtw-2\lang1033\langfe3082\langnp1033\insrsid4941229 {\*\datafield 0c0070686f656e697800010000ffffffffffffffffffffffffffffffffffffff0039382ef800000000}}}{\fldrslt }}{
+\b\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 
+\par }{\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 Nombre:\tab \tab \tab \tab \tab \tab \tab \tab \tab Grupo:
+\par 1) Dos cadenas (palabras) se consideran parecidas si:
+\par }\pard \qj \fi-720\li720\ri0\widctlpar\tx-1440\tx-720\tx0\hyphpar0\faauto\adjustright\rin0\lin720\itap0 {\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 \tab a) son iguales (sin diferenciar entre may\'fasculas y min\'fa
+sculas), ejemplo }{\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 "iguAles" }{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 e }{
+\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 "IGuales"
+\par }{\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 \tab b) se diferencian en un s\'f3lo car\'e1cter, ejemplo}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771  }{
+\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 "iguales"}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771  e }{\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 
+"Igyales"}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 
+\par }{\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 \tab c) ser\'edan iguales, excepto que una tiene un caracter m\'e1s que la otra, ejemplo }{\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 "iguales"
+}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771  e }{\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 "igales"}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 
+
+\par }{\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 \tab d) se diferencian en dos caracteres consecutivos que est\'e1n permutados, ejemplo }{\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 "iguales" }
+{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 e }{\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 "igaules"
+\par }\pard \qj \li0\ri0\widctlpar\tx-1440\tx-720\hyphpar0\faauto\adjustright\rin0\lin0\itap0 {\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 Defina una funci\'f3n booleana }{
+\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 parecida }{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 que determine si dos cadenas son parecidas o no.
+\par }{\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 
+\par 2) Realice la instrumentaci\'f3n de una clase: }{\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 TDiccionario}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 
+, que recoge la  funcionalidad de un diccionario bilingue.
+\par }{\cs33\b\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 type}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 
+\par   TLenguajes = ( Ingles, Espannol );
+\par   TDiccionario = }{\cs33\b\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 object}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 
+\par      }{\cs33\b\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 constructor}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771  Crea;
+\par      }{\cs33\b\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 procedure }{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 Inserta( L: TLenguajes; P: String );
+\par       \{ Inserta la palabra P del lenguaje L \}
+\par      }{\cs33\b\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 procedure}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771  Sinonimos( L: TLenguajes; P1, P2: String );
+\par       \{ Define como sin\'f3nimos en el lenguaje L a las palabras P1 y P2 \}
+\par      }{\cs33\b\f0\fs24\expnd0\expndtw-2\lang1033\langfe3082\langnp1033\insrsid16736771 procedure }{\cs33\f0\fs24\expnd0\expndtw-2\lang1033\langfe3082\langnp1033\insrsid16736771 Traduccion( P1, P2: String );
+\par       }{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 \{ Define a la palabra P2 como la traducci\'f3n en espa\'f1ol de la palabra P1
+\par         del Ingl\'e9s\}
+\par      }{\cs33\b\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 function }{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 SonSinonimos( L: TLenguajes; P1, P2: String ): Boolean;
+\par        \{ Dice si en el lenguaje L son sin\'f3nimos las palabras P1 y P2\}
+\par      }{\cs33\b\f0\fs24\expnd0\expndtw-2\lang1033\langfe3082\langnp1033\insrsid16736771 function}{\cs33\f0\fs24\expnd0\expndtw-2\lang1033\langfe3082\langnp1033\insrsid16736771  EsTraduccion( P1, P2: String ): Boolean;
+\par        }{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 \{ Dice si la palabra P2 es la traducci\'f3n al Espa\'f1ol de la palabra P1
+\par          del Ingl\'e9s \}
+\par      }{\cs33\b\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 procedure }{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 ListaSinonimos( L:TLenguajes; P: String );
+\par        \{ Lista los sin\'f3nimos de la palabra P del lenguaje L \}
+\par      }{\cs33\b\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 procedure }{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 ListaTraducciones( L: TLenguajes; P: String );
+\par        \{ Lista las traducciones de la palabra P del lenguaje L\}
+\par    }{\cs33\b\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 end}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 ;
+\par }{\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 - La cantidad de palabras es te\'f3ricamente ilimitada.
+\par - La relaciones sin\'f3nimos y traducciones son sim\'e9trica y transitiva entre s\'ed
+\par Por ejemplo, si se tiene:
+\par }{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771   var D:Diccionario;
+\par   }{\cs33\b\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 begin}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 
+\par     D.crea;
+\par     D.inserta(Espannol, lindo);
+\par     D.sinonimos(Ingles, 'pretty', 'beautiful');
+\par     D.traduccion('beautiful', 'bello');
+\par     D.sinonimos(Espannol, 'bello', 'bonito');
+\par     D.sinonimos(Espannol, 'lindo', 'bonito');
+\par     writeln(D.SonSinonimos(Espannol, 'lindo','bello')); \{ Debe imprimir }{\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 true}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771  \}
+\par     writeln(D.EsTraduccion('pretty','lindo')); \{ Debe imprimir }{\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 true}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771  \}
+\par     D.ListaTraducciones(Espannol, 'lindo');
+\par      \{ Debe listar  }{\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 pretty, beautiful}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771  \}
+\par     D.ListaSinonimos(Espannol, 'feo');
+\par      \{ Debe listar }{\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 se desconoce}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771  \}
+\par     \{ ....\}
+\par   }{\cs33\b\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 end}{\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 
+\par }{\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 3) Dise\'f1e e instrumente una jerarqu\'eda de clases para representar figuras geom\'e9\-tricas. Las figuras pueden ser simples como }{
+\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 punto}{\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 , }{\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 c\'edrculo}{
+\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 , }{\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 rect\'e1ngulo}{\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771  y }{
+\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 cuadrado}{\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771  y compuestas. Una figura compuesta est\'e1 formada por cualquier can\-
+tidad (mas de una) de figuras simples o compuestas. Toda figura geom\'e9trica debe tener una funci\'f3n }{\cs33\i\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 Area }{
+\cs33\f0\fs24\expnd0\expndtw-2\lang3082\langfe3082\langnp3082\insrsid16736771 para calcular el \'e1rea de la figura (para simpli\-ficar asuma que las figuras que constituyen una figura compuesta no se intersectan entre s\'ed).
+\par }}

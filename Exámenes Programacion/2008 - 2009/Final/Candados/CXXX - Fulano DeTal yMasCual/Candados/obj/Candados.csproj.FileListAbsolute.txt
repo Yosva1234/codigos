@@ -1,0 +1,6 @@
+C:\Users\lleonart\Documents\Visual Studio 2005\Projects\Candados\Candados\bin\Debug\Candados.dll
+C:\Users\lleonart\Documents\Visual Studio 2005\Projects\Candados\Candados\bin\Debug\Candados.pdb
+C:\Users\lleonart\Documents\Visual Studio 2005\Projects\Candados\Candados\bin\Debug\Candados.Utiles.dll
+C:\Users\lleonart\Documents\Visual Studio 2005\Projects\Candados\Candados\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lleonart\Documents\Visual Studio 2005\Projects\Candados\Candados\obj\Debug\Candados.dll
+C:\Users\lleonart\Documents\Visual Studio 2005\Projects\Candados\Candados\obj\Debug\Candados.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exam/1.0.0": {
+        "dependencies": {
+          "FoodRebellion": "1.0.0"
+        },
+        "runtime": {
+          "Exam.dll": {}
+        }
+      },
+      "FoodRebellion/1.0.0": {
+        "runtime": {
+          "FoodRebellion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FoodRebellion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

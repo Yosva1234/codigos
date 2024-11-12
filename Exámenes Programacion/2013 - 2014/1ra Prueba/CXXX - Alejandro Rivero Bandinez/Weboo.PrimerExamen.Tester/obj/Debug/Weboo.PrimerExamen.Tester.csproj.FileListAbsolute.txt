@@ -1,0 +1,21 @@
+C:\Users\Box\Desktop\Examen\CXXX - Nombre Apellido1 Apellido2\Weboo.PrimerExamen.Tester\bin\Debug\Weboo.PrimerExamen.Tester.exe
+C:\Users\Box\Desktop\Examen\CXXX - Nombre Apellido1 Apellido2\Weboo.PrimerExamen.Tester\bin\Debug\Weboo.PrimerExamen.Tester.pdb
+C:\Users\Box\Desktop\Examen\CXXX - Nombre Apellido1 Apellido2\Weboo.PrimerExamen.Tester\bin\Debug\Weboo.PrimerExamen.dll
+C:\Users\Box\Desktop\Examen\CXXX - Nombre Apellido1 Apellido2\Weboo.PrimerExamen.Tester\bin\Debug\Weboo.PrimerExamen.pdb
+C:\Users\Box\Desktop\Examen\CXXX - Nombre Apellido1 Apellido2\Weboo.PrimerExamen.Tester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Box\Desktop\Examen\CXXX - Nombre Apellido1 Apellido2\Weboo.PrimerExamen.Tester\obj\Debug\Weboo.PrimerExamen.Tester.exe
+C:\Users\Box\Desktop\Examen\CXXX - Nombre Apellido1 Apellido2\Weboo.PrimerExamen.Tester\obj\Debug\Weboo.PrimerExamen.Tester.pdb
+C:\Users\Box\Desktop\Examen\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen.Tester\bin\Debug\Weboo.PrimerExamen.Tester.exe
+C:\Users\Box\Desktop\Examen\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen.Tester\bin\Debug\Weboo.PrimerExamen.Tester.pdb
+C:\Users\Box\Desktop\Examen\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen.Tester\bin\Debug\Weboo.PrimerExamen.dll
+C:\Users\Box\Desktop\Examen\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen.Tester\bin\Debug\Weboo.PrimerExamen.pdb
+C:\Users\Box\Desktop\Examen\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen.Tester\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Box\Desktop\Examen\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen.Tester\obj\Debug\Weboo.PrimerExamen.Tester.exe
+C:\Users\Box\Desktop\Examen\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen.Tester\obj\Debug\Weboo.PrimerExamen.Tester.pdb
+E:\Pruebas muy completas\2013-2014\1ra Prueba\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen.Tester\obj\Debug\Weboo.PrimerExamen.Tester.exe
+E:\Pruebas muy completas\2013-2014\1ra Prueba\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen.Tester\obj\Debug\Weboo.PrimerExamen.Tester.pdb
+E:\Pruebas muy completas\2013-2014\1ra Prueba\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen.Tester\bin\Debug\Weboo.PrimerExamen.Tester.exe
+E:\Pruebas muy completas\2013-2014\1ra Prueba\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen.Tester\bin\Debug\Weboo.PrimerExamen.Tester.pdb
+E:\Pruebas muy completas\2013-2014\1ra Prueba\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen.Tester\bin\Debug\Weboo.PrimerExamen.dll
+E:\Pruebas muy completas\2013-2014\1ra Prueba\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen.Tester\bin\Debug\Weboo.PrimerExamen.pdb
+E:\Pruebas muy completas\2013-2014\1ra Prueba\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen.Tester\obj\Debug\Weboo.PrimerExamen.Tester.csprojResolveAssemblyReference.cache

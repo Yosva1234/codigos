@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioMitad", "EjercicioMitad\EjercicioMitad.csproj", "{033AB357-EBEF-44F9-ACAC-8AC199684570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba", "Prueba\Prueba.csproj", "{6A802D6B-FD21-433E-B0CD-E91FD4FA3DC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033AB357-EBEF-44F9-ACAC-8AC199684570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033AB357-EBEF-44F9-ACAC-8AC199684570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033AB357-EBEF-44F9-ACAC-8AC199684570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033AB357-EBEF-44F9-ACAC-8AC199684570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A802D6B-FD21-433E-B0CD-E91FD4FA3DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A802D6B-FD21-433E-B0CD-E91FD4FA3DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A802D6B-FD21-433E-B0CD-E91FD4FA3DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A802D6B-FD21-433E-B0CD-E91FD4FA3DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Weboo.Utils</name>
+    </assembly>
+    <members>
+        <member name="T:Weboo.Examen.Celda">
+            <summary>
+            Representa celdas dentro de una matriz esparcida.
+            </summary>
+        </member>
+        <member name="M:Weboo.Examen.Celda.#ctor(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Construye una instancia a partir de una posición y un valor.
+            </summary>
+            <param name="fila">Fila de la celda.</param>
+            <param name="columna">Columna de la celda.</param>
+            <param name="valor">Valor almacenado en la celda.</param>
+        </member>
+        <member name="P:Weboo.Examen.Celda.Fila">
+            <summary>
+            Fila de la celda.
+            </summary>
+        </member>
+        <member name="P:Weboo.Examen.Celda.Columna">
+            <summary>
+            Columna de la celda.
+            </summary>
+        </member>
+        <member name="P:Weboo.Examen.Celda.Valor">
+            <summary>
+            Valor almacenado en la celda.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,5 @@
+bin\Debug\MyFirstChance.exe
+bin\Debug\MyFirstChance.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyFirstChance.exe
+obj\Debug\MyFirstChance.pdb

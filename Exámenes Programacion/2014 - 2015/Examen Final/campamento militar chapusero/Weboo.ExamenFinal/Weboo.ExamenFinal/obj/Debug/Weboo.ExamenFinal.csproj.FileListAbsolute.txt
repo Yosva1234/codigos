@@ -1,0 +1,12 @@
+D:\Documents\!Backup\Documents\Prog 2015\Campamento Militar\Weboo.ExamenFinal\Weboo.ExamenFinal\bin\Debug\Weboo.ExamenFinal.dll
+D:\Documents\!Backup\Documents\Prog 2015\Campamento Militar\Weboo.ExamenFinal\Weboo.ExamenFinal\bin\Debug\Weboo.ExamenFinal.pdb
+D:\Documents\!Backup\Documents\Prog 2015\Campamento Militar\Weboo.ExamenFinal\Weboo.ExamenFinal\bin\Debug\Weboo.ExamenFinal.Interfaces.dll
+D:\Documents\!Backup\Documents\Prog 2015\Campamento Militar\Weboo.ExamenFinal\Weboo.ExamenFinal\obj\Debug\Weboo.ExamenFinal.csprojResolveAssemblyReference.cache
+D:\Documents\!Backup\Documents\Prog 2015\Campamento Militar\Weboo.ExamenFinal\Weboo.ExamenFinal\obj\Debug\Weboo.ExamenFinal.dll
+D:\Documents\!Backup\Documents\Prog 2015\Campamento Militar\Weboo.ExamenFinal\Weboo.ExamenFinal\obj\Debug\Weboo.ExamenFinal.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2014 - 2015\Examen Final\CXXX- Nombre Apellido Apellido\Weboo.ExamenFinal\Weboo.ExamenFinal\bin\Debug\Weboo.ExamenFinal.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2014 - 2015\Examen Final\CXXX- Nombre Apellido Apellido\Weboo.ExamenFinal\Weboo.ExamenFinal\bin\Debug\Weboo.ExamenFinal.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2014 - 2015\Examen Final\CXXX- Nombre Apellido Apellido\Weboo.ExamenFinal\Weboo.ExamenFinal\bin\Debug\Weboo.ExamenFinal.Interfaces.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2014 - 2015\Examen Final\CXXX- Nombre Apellido Apellido\Weboo.ExamenFinal\Weboo.ExamenFinal\obj\Debug\Weboo.ExamenFinal.csprojResolveAssemblyReference.cache
+C:\Users\juanc\Desktop\Exámenes Programacion\2014 - 2015\Examen Final\CXXX- Nombre Apellido Apellido\Weboo.ExamenFinal\Weboo.ExamenFinal\obj\Debug\Weboo.ExamenFinal.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2014 - 2015\Examen Final\CXXX- Nombre Apellido Apellido\Weboo.ExamenFinal\Weboo.ExamenFinal\obj\Debug\Weboo.ExamenFinal.pdb

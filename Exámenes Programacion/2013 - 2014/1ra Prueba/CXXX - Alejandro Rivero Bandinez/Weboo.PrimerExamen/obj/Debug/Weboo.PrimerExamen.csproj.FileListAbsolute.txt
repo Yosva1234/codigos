@@ -1,0 +1,15 @@
+C:\Users\Box\Desktop\Examen\CXXX - Nombre Apellido1 Apellido2\Weboo.PrimerExamen\bin\Debug\Weboo.PrimerExamen.dll
+C:\Users\Box\Desktop\Examen\CXXX - Nombre Apellido1 Apellido2\Weboo.PrimerExamen\bin\Debug\Weboo.PrimerExamen.pdb
+C:\Users\Box\Desktop\Examen\CXXX - Nombre Apellido1 Apellido2\Weboo.PrimerExamen\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Box\Desktop\Examen\CXXX - Nombre Apellido1 Apellido2\Weboo.PrimerExamen\obj\Debug\Weboo.PrimerExamen.dll
+C:\Users\Box\Desktop\Examen\CXXX - Nombre Apellido1 Apellido2\Weboo.PrimerExamen\obj\Debug\Weboo.PrimerExamen.pdb
+C:\Users\Box\Desktop\Examen\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen\bin\Debug\Weboo.PrimerExamen.dll
+C:\Users\Box\Desktop\Examen\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen\bin\Debug\Weboo.PrimerExamen.pdb
+C:\Users\Box\Desktop\Examen\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Box\Desktop\Examen\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen\obj\Debug\Weboo.PrimerExamen.dll
+C:\Users\Box\Desktop\Examen\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen\obj\Debug\Weboo.PrimerExamen.pdb
+E:\Pruebas muy completas\2013-2014\1ra Prueba\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen\bin\Debug\Weboo.PrimerExamen.dll
+E:\Pruebas muy completas\2013-2014\1ra Prueba\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen\bin\Debug\Weboo.PrimerExamen.pdb
+E:\Pruebas muy completas\2013-2014\1ra Prueba\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen\obj\Debug\Weboo.PrimerExamen.csprojResolveAssemblyReference.cache
+E:\Pruebas muy completas\2013-2014\1ra Prueba\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen\obj\Debug\Weboo.PrimerExamen.dll
+E:\Pruebas muy completas\2013-2014\1ra Prueba\CXXX - Alejandro Rivero Bandinez\Weboo.PrimerExamen\obj\Debug\Weboo.PrimerExamen.pdb

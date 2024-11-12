@@ -1,0 +1,7 @@
+C:\Users\Luis\Documents\Visual Studio 2008\Projects\SolucionCaminosEnergia\ProbandoSolucion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luis\Documents\Visual Studio 2008\Projects\SolucionCaminosEnergia\ProbandoSolucion\bin\Debug\ProbandoSolucion.exe
+C:\Users\Luis\Documents\Visual Studio 2008\Projects\SolucionCaminosEnergia\ProbandoSolucion\bin\Debug\ProbandoSolucion.pdb
+C:\Users\Luis\Documents\Visual Studio 2008\Projects\SolucionCaminosEnergia\ProbandoSolucion\bin\Debug\SolucionCaminosEnergia.dll
+C:\Users\Luis\Documents\Visual Studio 2008\Projects\SolucionCaminosEnergia\ProbandoSolucion\bin\Debug\SolucionCaminosEnergia.pdb
+C:\Users\Luis\Documents\Visual Studio 2008\Projects\SolucionCaminosEnergia\ProbandoSolucion\obj\Debug\ProbandoSolucion.exe
+C:\Users\Luis\Documents\Visual Studio 2008\Projects\SolucionCaminosEnergia\ProbandoSolucion\obj\Debug\ProbandoSolucion.pdb

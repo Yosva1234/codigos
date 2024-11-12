@@ -1,0 +1,8 @@
+D:\Documentos\Visual Studio 2017\Projects\Examen\TestApp\bin\Debug\TestApp.exe
+D:\Documentos\Visual Studio 2017\Projects\Examen\TestApp\bin\Debug\TestApp.pdb
+D:\Documentos\Visual Studio 2017\Projects\Examen\TestApp\bin\Debug\Weboo.Examen.dll
+D:\Documentos\Visual Studio 2017\Projects\Examen\TestApp\bin\Debug\Weboo.Examen.pdb
+D:\Documentos\Visual Studio 2017\Projects\Examen\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2017\Projects\Examen\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\Examen\TestApp\obj\Debug\TestApp.exe
+D:\Documentos\Visual Studio 2017\Projects\Examen\TestApp\obj\Debug\TestApp.pdb

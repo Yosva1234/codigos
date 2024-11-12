@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+RnxL66mBHdzoDHgBTkU3RVS64RS/MBz7vjjVr3VMPTHNOlkC889sza2dyQ0MA8vQeHvwLRln6Nt5oMh9dLCQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Representando Imagenes\\Representando Imagenes\\Representando Imágenes\\Template.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

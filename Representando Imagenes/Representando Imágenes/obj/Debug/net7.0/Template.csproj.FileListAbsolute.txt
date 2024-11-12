@@ -1,0 +1,14 @@
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net7.0\Template.exe
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net7.0\Template.deps.json
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net7.0\Template.runtimeconfig.json
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net7.0\Template.dll
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net7.0\Template.pdb
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net7.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net7.0\Template.AssemblyInfoInputs.cache
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net7.0\Template.AssemblyInfo.cs
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net7.0\Template.csproj.CoreCompileInputs.cache
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net7.0\Template.dll
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net7.0\refint\Template.dll
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net7.0\Template.pdb
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net7.0\Template.genruntimeconfig.cache
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net7.0\ref\Template.dll

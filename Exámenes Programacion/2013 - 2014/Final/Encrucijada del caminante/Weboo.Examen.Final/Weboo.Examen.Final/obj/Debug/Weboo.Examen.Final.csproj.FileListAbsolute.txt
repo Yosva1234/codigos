@@ -1,0 +1,5 @@
+C:\Users\juanc\Desktop\Exámenes Programacion\2013 - 2014\Final\Encrucijada del caminante\Weboo.Examen.Final\Weboo.Examen.Final\bin\Debug\Weboo.Examen.Final.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2013 - 2014\Final\Encrucijada del caminante\Weboo.Examen.Final\Weboo.Examen.Final\bin\Debug\Weboo.Examen.Final.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2013 - 2014\Final\Encrucijada del caminante\Weboo.Examen.Final\Weboo.Examen.Final\obj\Debug\Weboo.Examen.Final.csprojResolveAssemblyReference.cache
+C:\Users\juanc\Desktop\Exámenes Programacion\2013 - 2014\Final\Encrucijada del caminante\Weboo.Examen.Final\Weboo.Examen.Final\obj\Debug\Weboo.Examen.Final.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2013 - 2014\Final\Encrucijada del caminante\Weboo.Examen.Final\Weboo.Examen.Final\obj\Debug\Weboo.Examen.Final.pdb

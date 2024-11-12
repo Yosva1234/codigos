@@ -1,0 +1,24 @@
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Probador\bin\Debug\Probador.exe.config
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Probador\bin\Debug\Probador.exe
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Probador\bin\Debug\Probador.pdb
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Probador\bin\Debug\Weboo.Examen.dll
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Probador\bin\Debug\Weboo.Utils.dll
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Probador\bin\Debug\Weboo.Examen.pdb
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Probador\bin\Debug\Weboo.Utils.pdb
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Probador\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Probador\obj\x86\Debug\Probador.exe
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Probador\obj\x86\Debug\Probador.pdb
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Para los alumnos\Probador\bin\Debug\Probador.exe.config
+G:\Orientación\Plantilla\Probador\bin\Debug\Probador.exe.config
+G:\Orientación\Plantilla\Probador\bin\Debug\Probador.exe
+G:\Orientación\Plantilla\Probador\bin\Debug\Probador.pdb
+G:\Orientación\Plantilla\Probador\bin\Debug\Weboo.Examen.dll
+G:\Orientación\Plantilla\Probador\bin\Debug\Weboo.Utils.dll
+G:\Orientación\Plantilla\Probador\bin\Debug\Weboo.Examen.pdb
+G:\Orientación\Plantilla\Probador\bin\Debug\Weboo.Utils.xml
+G:\Orientación\Plantilla\Probador\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Orientación\Plantilla\Probador\obj\x86\Debug\Probador.exe
+G:\Orientación\Plantilla\Probador\obj\x86\Debug\Probador.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2011 - 2012\1er Mundial Programacion\Orientación\Plantilla\Probador\bin\Debug\Probador.exe.config
+C:\Users\juanc\Desktop\Exámenes Programacion\2011 - 2012\1er Mundial Programacion\Orientación\Plantilla\Probador\obj\x86\Debug\Probador.exe
+C:\Users\juanc\Desktop\Exámenes Programacion\2011 - 2012\1er Mundial Programacion\Orientación\Plantilla\Probador\obj\x86\Debug\Probador.pdb

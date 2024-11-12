@@ -1,0 +1,5 @@
+D:\Documentos\Visual Studio 2017\Projects\Examen\Weboo.Examen\bin\Debug\Weboo.Examen.dll
+D:\Documentos\Visual Studio 2017\Projects\Examen\Weboo.Examen\bin\Debug\Weboo.Examen.pdb
+D:\Documentos\Visual Studio 2017\Projects\Examen\Weboo.Examen\obj\Debug\Weboo.Examen.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2017\Projects\Examen\Weboo.Examen\obj\Debug\Weboo.Examen.dll
+D:\Documentos\Visual Studio 2017\Projects\Examen\Weboo.Examen\obj\Debug\Weboo.Examen.pdb

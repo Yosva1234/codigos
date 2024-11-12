@@ -1,0 +1,71 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="2" />
+      <Item value="public" priority="0" />
+      <Item value="static" priority="1" />
+      <Item value="List" priority="3" />
+      <Item value="Arbol" priority="1" />
+      <Item value="object" priority="1" />
+      <Item value="new" priority="2" />
+      <Item value="for" priority="1" />
+      <Item value="a" priority="3" />
+      <Item value="camino" priority="4" />
+      <Item value="foreach" priority="1" />
+      <Item value="var" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="result" priority="1" />
+      <Item value="bool" priority="0" />
+      <Item value="arbol" priority="2" />
+      <Item value="T`0" priority="0" />
+      <Item value="if" priority="1" />
+      <Item value="elemento" priority="2" />
+      <Item value="else" priority="0" />
+      <Item value="subArbol" priority="2" />
+      <Item value="Hallarcamino`1" priority="1" />
+      <Item value="true" priority="1" />
+      <Item value="false" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Weboo.Arboles.Arbol`1">
+      <Item value="CantidadDeHijos" priority="0" />
+      <Item value="Valor" priority="2" />
+      <Item value="Hijos" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="2" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4BF58564-45AA-4833-9413-832B31080719/f:Respuesta.cs" caret="1176" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4BF58564-45AA-4833-9413-832B31080719/f:Respuesta.cs" caret="1143" fromTop="7" />
+      <File id="4BF58564-45AA-4833-9413-832B31080719/f:Respuesta.cs" caret="1143" fromTop="12" />
+      <File id="4BF58564-45AA-4833-9413-832B31080719/f:Respuesta.cs" caret="1143" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

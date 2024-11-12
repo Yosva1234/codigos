@@ -1,0 +1,5 @@
+namespace: NumeroMasCercano
+clase: Principal
+método: public static long MasCercano(int[] operandos, long resultado);
+
+

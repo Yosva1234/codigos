@@ -1,0 +1,7 @@
+D:\Docencia\Programación\2011-2012\Exámenes\Ubicando piezas\Variante 1\SolucionUbicandoPiezas\ProbandoSolucion\bin\Debug\ProbandoSolucion.exe
+D:\Docencia\Programación\2011-2012\Exámenes\Ubicando piezas\Variante 1\SolucionUbicandoPiezas\ProbandoSolucion\bin\Debug\ProbandoSolucion.pdb
+D:\Docencia\Programación\2011-2012\Exámenes\Ubicando piezas\Variante 1\SolucionUbicandoPiezas\ProbandoSolucion\bin\Debug\SolucionUbicandoPiezas.dll
+D:\Docencia\Programación\2011-2012\Exámenes\Ubicando piezas\Variante 1\SolucionUbicandoPiezas\ProbandoSolucion\bin\Debug\SolucionUbicandoPiezas.pdb
+D:\Docencia\Programación\2011-2012\Exámenes\Ubicando piezas\Variante 1\SolucionUbicandoPiezas\ProbandoSolucion\obj\Debug\ResolveAssemblyReference.cache
+D:\Docencia\Programación\2011-2012\Exámenes\Ubicando piezas\Variante 1\SolucionUbicandoPiezas\ProbandoSolucion\obj\Debug\ProbandoSolucion.exe
+D:\Docencia\Programación\2011-2012\Exámenes\Ubicando piezas\Variante 1\SolucionUbicandoPiezas\ProbandoSolucion\obj\Debug\ProbandoSolucion.pdb

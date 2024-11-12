@@ -1,0 +1,6 @@
+C:\Users\Leonard\Documents\Visual Studio 2005\Projects\Redondeando\Redondeando\bin\Debug\Redondeando.dll
+C:\Users\Leonard\Documents\Visual Studio 2005\Projects\Redondeando\Redondeando\bin\Debug\Redondeando.pdb
+C:\Users\Leonard\Documents\Visual Studio 2005\Projects\Redondeando\Redondeando\bin\Debug\Weboo.Quadtries.dll
+C:\Users\Leonard\Documents\Visual Studio 2005\Projects\Redondeando\Redondeando\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Leonard\Documents\Visual Studio 2005\Projects\Redondeando\Redondeando\obj\Debug\Redondeando.dll
+C:\Users\Leonard\Documents\Visual Studio 2005\Projects\Redondeando\Redondeando\obj\Debug\Redondeando.pdb

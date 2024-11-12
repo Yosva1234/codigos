@@ -1,0 +1,95 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="7" />
+      <Item value="using" priority="0" />
+      <Item value="private" priority="3" />
+      <Item value="static" priority="3" />
+      <Item value="List" priority="7" />
+      <Item value="Quadtree`0" priority="8" />
+      <Item value="arbol" priority="9" />
+      <Item value="new" priority="6" />
+      <Item value="int" priority="3" />
+      <Item value="return" priority="2" />
+      <Item value="result" priority="4" />
+      <Item value="List&lt;Quadtree&gt;" priority="0" />
+      <Item value="for" priority="4" />
+      <Item value="temp" priority="3" />
+      <Item value="if" priority="4" />
+      <Item value="nivel" priority="3" />
+      <Item value="padre" priority="4" />
+      <Item value="k" priority="1" />
+      <Item value="public" priority="0" />
+      <Item value="Redondeando" priority="0" />
+      <Item value="RedondeoQuadtree`0" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="index" priority="1" />
+      <Item value="recorridoPoNiveles" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="is" priority="3" />
+      <Item value="QuadtreeColor`0" priority="8" />
+      <Item value="as" priority="0" />
+      <Item value="UriIdnScope`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="4" />
+      <Item value="Capacity" priority="0" />
+      <Item value="Count" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Weboo.Quadtries.Quadtree">
+      <Item value="CantidadDeHijos" priority="0" />
+      <Item value="Hijo0" priority="10" />
+      <Item value="Hijo`0" priority="0" />
+      <Item value="Color" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Redondeando.RedondeoQuadtree">
+      <Item value="RecorridoPorNiveles`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Weboo.Quadtries.QuadtreeColor">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Weboo.Quadtries.QuadtreeColor">
+      <Item value="White" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0B38979D-08DB-454D-9E0D-724E5DCBBA22/f:Program.cs" caret="757" fromTop="23" />
+      <File id="1309F9CF-E33A-4610-97FC-A0BC0D92F2B8/f:Class1.cs" caret="1707" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0B38979D-08DB-454D-9E0D-724E5DCBBA22/f:Program.cs" caret="229" fromTop="10" />
+      <File id="0B38979D-08DB-454D-9E0D-724E5DCBBA22/f:Program.cs" caret="112" fromTop="2" />
+      <File id="1309F9CF-E33A-4610-97FC-A0BC0D92F2B8/f:Class1.cs" caret="1680" fromTop="14" />
+      <File id="0B38979D-08DB-454D-9E0D-724E5DCBBA22/f:Program.cs" caret="665" fromTop="11" />
+      <File id="1309F9CF-E33A-4610-97FC-A0BC0D92F2B8/f:Class1.cs" caret="278" fromTop="12" />
+      <File id="1309F9CF-E33A-4610-97FC-A0BC0D92F2B8/f:Class1.cs" caret="1680" fromTop="10" />
+      <File id="1309F9CF-E33A-4610-97FC-A0BC0D92F2B8/f:Class1.cs" caret="1680" fromTop="19" />
+      <File id="0B38979D-08DB-454D-9E0D-724E5DCBBA22/f:Program.cs" caret="666" fromTop="7" />
+      <File id="1309F9CF-E33A-4610-97FC-A0BC0D92F2B8/f:Class1.cs" caret="1680" fromTop="16" />
+      <File id="1309F9CF-E33A-4610-97FC-A0BC0D92F2B8/f:Class1.cs" caret="1680" fromTop="12" />
+      <File id="1309F9CF-E33A-4610-97FC-A0BC0D92F2B8/f:Class1.cs" caret="1707" fromTop="5" />
+      <File id="1309F9CF-E33A-4610-97FC-A0BC0D92F2B8/f:Class1.cs" caret="1707" fromTop="9" />
+      <File id="1309F9CF-E33A-4610-97FC-A0BC0D92F2B8/f:Class1.cs" caret="1707" fromTop="13" />
+      <File id="1309F9CF-E33A-4610-97FC-A0BC0D92F2B8/f:Class1.cs" caret="1707" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

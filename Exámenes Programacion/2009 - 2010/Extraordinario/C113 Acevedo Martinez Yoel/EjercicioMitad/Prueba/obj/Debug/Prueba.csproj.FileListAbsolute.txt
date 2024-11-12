@@ -1,0 +1,16 @@
+C:\Users\Slikker\Desktop\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\obj\Debug\Prueba.exe
+C:\Users\Slikker\Desktop\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\obj\Debug\Prueba.pdb
+C:\Users\Slikker\Desktop\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\bin\Debug\Prueba.exe
+C:\Users\Slikker\Desktop\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\bin\Debug\Prueba.pdb
+C:\Users\Slikker\Desktop\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\bin\Debug\EjercicioMitad.dll
+C:\Users\Slikker\Desktop\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\bin\Debug\LibEjercicioMitad.dll
+C:\Users\Slikker\Desktop\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\bin\Debug\EjercicioMitad.pdb
+C:\Users\Slikker\Desktop\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Slikker\Desktop\Estudio y Escuela\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\obj\Debug\Prueba.exe
+C:\Users\Slikker\Desktop\Estudio y Escuela\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\obj\Debug\Prueba.pdb
+C:\Users\Slikker\Desktop\Estudio y Escuela\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\bin\Debug\Prueba.exe
+C:\Users\Slikker\Desktop\Estudio y Escuela\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\bin\Debug\Prueba.pdb
+C:\Users\Slikker\Desktop\Estudio y Escuela\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\bin\Debug\EjercicioMitad.dll
+C:\Users\Slikker\Desktop\Estudio y Escuela\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\bin\Debug\LibEjercicioMitad.dll
+C:\Users\Slikker\Desktop\Estudio y Escuela\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\bin\Debug\EjercicioMitad.pdb
+C:\Users\Slikker\Desktop\Estudio y Escuela\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\Prueba\obj\Debug\ResolveAssemblyReference.cache

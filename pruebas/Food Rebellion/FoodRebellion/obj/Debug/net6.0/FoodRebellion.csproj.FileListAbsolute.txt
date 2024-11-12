@@ -1,0 +1,23 @@
+/home/student/Documents/Mundial Pro POO/FoodRebellion/bin/Debug/net6.0/FoodRebellion.deps.json
+/home/student/Documents/Mundial Pro POO/FoodRebellion/bin/Debug/net6.0/FoodRebellion.dll
+/home/student/Documents/Mundial Pro POO/FoodRebellion/bin/Debug/net6.0/ref/FoodRebellion.dll
+/home/student/Documents/Mundial Pro POO/FoodRebellion/bin/Debug/net6.0/FoodRebellion.pdb
+/home/student/Documents/Mundial Pro POO/FoodRebellion/obj/Debug/net6.0/FoodRebellion.csproj.AssemblyReference.cache
+/home/student/Documents/Mundial Pro POO/FoodRebellion/obj/Debug/net6.0/FoodRebellion.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/Documents/Mundial Pro POO/FoodRebellion/obj/Debug/net6.0/FoodRebellion.AssemblyInfoInputs.cache
+/home/student/Documents/Mundial Pro POO/FoodRebellion/obj/Debug/net6.0/FoodRebellion.AssemblyInfo.cs
+/home/student/Documents/Mundial Pro POO/FoodRebellion/obj/Debug/net6.0/FoodRebellion.csproj.CoreCompileInputs.cache
+/home/student/Documents/Mundial Pro POO/FoodRebellion/obj/Debug/net6.0/FoodRebellion.dll
+/home/student/Documents/Mundial Pro POO/FoodRebellion/obj/Debug/net6.0/ref/FoodRebellion.dll
+/home/student/Documents/Mundial Pro POO/FoodRebellion/obj/Debug/net6.0/FoodRebellion.pdb
+C:\Users\Alex\Documents\Coding\pruebas\Food Rebellion\FoodRebellion\bin\Debug\net6.0\FoodRebellion.deps.json
+C:\Users\Alex\Documents\Coding\pruebas\Food Rebellion\FoodRebellion\bin\Debug\net6.0\FoodRebellion.dll
+C:\Users\Alex\Documents\Coding\pruebas\Food Rebellion\FoodRebellion\bin\Debug\net6.0\FoodRebellion.pdb
+C:\Users\Alex\Documents\Coding\pruebas\Food Rebellion\FoodRebellion\obj\Debug\net6.0\FoodRebellion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Coding\pruebas\Food Rebellion\FoodRebellion\obj\Debug\net6.0\FoodRebellion.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Coding\pruebas\Food Rebellion\FoodRebellion\obj\Debug\net6.0\FoodRebellion.AssemblyInfo.cs
+C:\Users\Alex\Documents\Coding\pruebas\Food Rebellion\FoodRebellion\obj\Debug\net6.0\FoodRebellion.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Coding\pruebas\Food Rebellion\FoodRebellion\obj\Debug\net6.0\FoodRebellion.dll
+C:\Users\Alex\Documents\Coding\pruebas\Food Rebellion\FoodRebellion\obj\Debug\net6.0\refint\FoodRebellion.dll
+C:\Users\Alex\Documents\Coding\pruebas\Food Rebellion\FoodRebellion\obj\Debug\net6.0\FoodRebellion.pdb
+C:\Users\Alex\Documents\Coding\pruebas\Food Rebellion\FoodRebellion\obj\Debug\net6.0\ref\FoodRebellion.dll

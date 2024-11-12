@@ -1,0 +1,8 @@
+d:\jj\documentos\visual studio 2015\Projects\Weboo.Examen\Weboo.Tester\bin\Debug\Weboo.Tester.exe.config
+d:\jj\documentos\visual studio 2015\Projects\Weboo.Examen\Weboo.Tester\bin\Debug\Weboo.Tester.exe
+d:\jj\documentos\visual studio 2015\Projects\Weboo.Examen\Weboo.Tester\bin\Debug\Weboo.Tester.pdb
+d:\jj\documentos\visual studio 2015\Projects\Weboo.Examen\Weboo.Tester\bin\Debug\Weboo.Examen.dll
+d:\jj\documentos\visual studio 2015\Projects\Weboo.Examen\Weboo.Tester\bin\Debug\Weboo.Examen.pdb
+d:\jj\documentos\visual studio 2015\Projects\Weboo.Examen\Weboo.Tester\obj\Debug\Weboo.Tester.csprojResolveAssemblyReference.cache
+d:\jj\documentos\visual studio 2015\Projects\Weboo.Examen\Weboo.Tester\obj\Debug\Weboo.Tester.exe
+d:\jj\documentos\visual studio 2015\Projects\Weboo.Examen\Weboo.Tester\obj\Debug\Weboo.Tester.pdb

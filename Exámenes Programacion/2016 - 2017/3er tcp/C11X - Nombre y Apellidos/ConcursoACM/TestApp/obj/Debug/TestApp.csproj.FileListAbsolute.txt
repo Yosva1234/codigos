@@ -1,0 +1,30 @@
+d:\documentos\visual studio 2015\Projects\Examen\TestApp\bin\Debug\TestApp.exe
+d:\documentos\visual studio 2015\Projects\Examen\TestApp\bin\Debug\TestApp.pdb
+d:\documentos\visual studio 2015\Projects\Examen\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2015\Projects\Examen\TestApp\obj\Debug\TestApp.exe
+d:\documentos\visual studio 2015\Projects\Examen\TestApp\obj\Debug\TestApp.pdb
+D:\Documentos\Visual Studio 2015\Projects\Examen\TestApp\bin\Debug\Weboo.Examen.dll
+D:\Documentos\Visual Studio 2015\Projects\Examen\TestApp\bin\Debug\Weboo.Examen.Interfaces.dll
+D:\Documentos\Visual Studio 2015\Projects\Examen\TestApp\bin\Debug\Weboo.Examen.pdb
+D:\Documentos\Visual Studio 2015\Projects\Examen\TestApp\bin\Debug\Weboo.Examen.Interfaces.pdb
+D:\Documentos\Visual Studio 2015\Projects\ConcursoACM\TestApp\obj\Debug\TestApp.exe
+D:\Documentos\Visual Studio 2015\Projects\ConcursoACM\TestApp\obj\Debug\TestApp.pdb
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\TestApp\obj\Debug\TestApp.exe
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\TestApp\obj\Debug\TestApp.pdb
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\TestApp\bin\Debug\TestApp.exe
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\TestApp\bin\Debug\TestApp.pdb
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\TestApp\bin\Debug\Weboo.Examen.dll
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\TestApp\bin\Debug\Weboo.Examen.Interfaces.dll
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\TestApp\bin\Debug\Weboo.Examen.Interfaces.pdb
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\TestApp\bin\Debug\Weboo.Examen.pdb
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\TestApp\bin\Debug\TestApp.exe
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\TestApp\bin\Debug\TestApp.pdb
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\TestApp\bin\Debug\Weboo.Examen.dll
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\TestApp\bin\Debug\Weboo.Examen.Interfaces.dll
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\TestApp\bin\Debug\Weboo.Examen.pdb
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\TestApp\bin\Debug\Weboo.Examen.Interfaces.pdb
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\TestApp\obj\Debug\TestApp.exe
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\TestApp\obj\Debug\TestApp.pdb

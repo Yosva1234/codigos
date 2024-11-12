@@ -1,0 +1,22 @@
+d:\documentos\visual studio 2015\Projects\Examen\Weboo.Examen\bin\Debug\Weboo.Examen.dll
+d:\documentos\visual studio 2015\Projects\Examen\Weboo.Examen\bin\Debug\Weboo.Examen.pdb
+d:\documentos\visual studio 2015\Projects\Examen\Weboo.Examen\bin\Debug\Weboo.Examen.Interfaces.dll
+d:\documentos\visual studio 2015\Projects\Examen\Weboo.Examen\bin\Debug\Weboo.Examen.Interfaces.pdb
+d:\documentos\visual studio 2015\Projects\Examen\Weboo.Examen\obj\Debug\Weboo.Examen.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2015\Projects\Examen\Weboo.Examen\obj\Debug\Weboo.Examen.dll
+d:\documentos\visual studio 2015\Projects\Examen\Weboo.Examen\obj\Debug\Weboo.Examen.pdb
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\bin\Debug\Weboo.Examen.dll
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\bin\Debug\Weboo.Examen.pdb
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\bin\Debug\Weboo.Examen.Interfaces.dll
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\bin\Debug\Weboo.Examen.Interfaces.pdb
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\obj\Debug\Weboo.Examen.csprojResolveAssemblyReference.cache
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\obj\Debug\Weboo.Examen.dll
+D:\Escritorio\3ra prueba templates\Concurso ACM\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\obj\Debug\Weboo.Examen.pdb
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\obj\Debug\Weboo.Examen.csprojResolveAssemblyReference.cache
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\obj\Debug\Weboo.Examen.csproj.CoreCompileInputs.cache
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\obj\Debug\Weboo.Examen.dll
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\obj\Debug\Weboo.Examen.pdb
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\bin\Debug\Weboo.Examen.dll
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\bin\Debug\Weboo.Examen.pdb
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\bin\Debug\Weboo.Examen.Interfaces.dll
+E:\Universidad\1 Ano\Programacion\Exámenes Programacion\2016 - 2017\3er tcp\C11X - Nombre y Apellidos\ConcursoACM\Weboo.Examen\bin\Debug\Weboo.Examen.Interfaces.pdb

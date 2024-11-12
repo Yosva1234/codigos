@@ -1,0 +1,12 @@
+C:\Users\Slikker\Desktop\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\EjercicioMitad\bin\Debug\EjercicioMitad.dll
+C:\Users\Slikker\Desktop\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\EjercicioMitad\bin\Debug\EjercicioMitad.pdb
+C:\Users\Slikker\Desktop\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\EjercicioMitad\bin\Debug\LibEjercicioMitad.dll
+C:\Users\Slikker\Desktop\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\EjercicioMitad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Slikker\Desktop\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\EjercicioMitad\obj\Debug\EjercicioMitad.dll
+C:\Users\Slikker\Desktop\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\EjercicioMitad\obj\Debug\EjercicioMitad.pdb
+C:\Users\Slikker\Desktop\Estudio y Escuela\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\EjercicioMitad\bin\Debug\EjercicioMitad.dll
+C:\Users\Slikker\Desktop\Estudio y Escuela\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\EjercicioMitad\bin\Debug\EjercicioMitad.pdb
+C:\Users\Slikker\Desktop\Estudio y Escuela\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\EjercicioMitad\bin\Debug\LibEjercicioMitad.dll
+C:\Users\Slikker\Desktop\Estudio y Escuela\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\EjercicioMitad\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Slikker\Desktop\Estudio y Escuela\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\EjercicioMitad\obj\Debug\EjercicioMitad.dll
+C:\Users\Slikker\Desktop\Estudio y Escuela\Examen\Examen\C113 Acevedo Martinez Yoel\EjercicioMitad\EjercicioMitad\obj\Debug\EjercicioMitad.pdb

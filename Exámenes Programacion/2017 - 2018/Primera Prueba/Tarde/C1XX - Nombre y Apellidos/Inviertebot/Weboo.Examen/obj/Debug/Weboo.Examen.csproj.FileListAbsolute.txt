@@ -1,0 +1,6 @@
+C:\Users\Jean\source\repos\Inviertebot\Weboo.Examen\bin\Debug\Weboo.Examen.dll
+C:\Users\Jean\source\repos\Inviertebot\Weboo.Examen\bin\Debug\Weboo.Examen.pdb
+C:\Users\Jean\source\repos\Inviertebot\Weboo.Examen\obj\Debug\Weboo.Examen.csprojResolveAssemblyReference.cache
+C:\Users\Jean\source\repos\Inviertebot\Weboo.Examen\obj\Debug\Weboo.Examen.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\Inviertebot\Weboo.Examen\obj\Debug\Weboo.Examen.dll
+C:\Users\Jean\source\repos\Inviertebot\Weboo.Examen\obj\Debug\Weboo.Examen.pdb

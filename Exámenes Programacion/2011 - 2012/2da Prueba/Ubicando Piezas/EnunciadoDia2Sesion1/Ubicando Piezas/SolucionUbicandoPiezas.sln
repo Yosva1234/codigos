@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolucionUbicandoPiezas", "SolucionUbicandoPiezas\SolucionUbicandoPiezas.csproj", "{2E740525-8337-4C37-BAC4-88A1EB7896FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbandoSolucion", "ProbandoSolucion\ProbandoSolucion.csproj", "{A7A07619-1052-4C99-8141-7C668A810CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E740525-8337-4C37-BAC4-88A1EB7896FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E740525-8337-4C37-BAC4-88A1EB7896FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E740525-8337-4C37-BAC4-88A1EB7896FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E740525-8337-4C37-BAC4-88A1EB7896FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A07619-1052-4C99-8141-7C668A810CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A07619-1052-4C99-8141-7C668A810CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A07619-1052-4C99-8141-7C668A810CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A07619-1052-4C99-8141-7C668A810CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

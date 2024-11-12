@@ -1,0 +1,42 @@
+C:\Users\leyva\OneDrive\Desktop\Template\bin\Debug\net8.0\Template.exe
+C:\Users\leyva\OneDrive\Desktop\Template\bin\Debug\net8.0\Template.deps.json
+C:\Users\leyva\OneDrive\Desktop\Template\bin\Debug\net8.0\Template.runtimeconfig.json
+C:\Users\leyva\OneDrive\Desktop\Template\bin\Debug\net8.0\Template.dll
+C:\Users\leyva\OneDrive\Desktop\Template\bin\Debug\net8.0\Template.pdb
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\Template.AssemblyInfoInputs.cache
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\Template.AssemblyInfo.cs
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\Template.csproj.CoreCompileInputs.cache
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\Template.dll
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\refint\Template.dll
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\Template.pdb
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\Template.genruntimeconfig.cache
+C:\Users\leyva\OneDrive\Desktop\Template\obj\Debug\net8.0\ref\Template.dll
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.exe
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.deps.json
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.runtimeconfig.json
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.dll
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.pdb
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.AssemblyInfoInputs.cache
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.AssemblyInfo.cs
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.csproj.CoreCompileInputs.cache
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.dll
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\refint\Template.dll
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.pdb
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.genruntimeconfig.cache
+C:\Users\Ronal\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\ref\Template.dll
+C:\Users\HP\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.exe
+C:\Users\HP\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.deps.json
+C:\Users\HP\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.runtimeconfig.json
+C:\Users\HP\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.dll
+C:\Users\HP\Desktop\Representando Imagenes\Representando Imágenes\bin\Debug\net8.0\Template.pdb
+C:\Users\HP\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.AssemblyInfo.cs
+C:\Users\HP\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.dll
+C:\Users\HP\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\refint\Template.dll
+C:\Users\HP\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.pdb
+C:\Users\HP\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\Template.genruntimeconfig.cache
+C:\Users\HP\Desktop\Representando Imagenes\Representando Imágenes\obj\Debug\net8.0\ref\Template.dll

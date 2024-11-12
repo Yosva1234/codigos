@@ -1,0 +1,7 @@
+C:\Users\Andy\Desktop\Examen\Probador\bin\Debug\Probador.exe
+C:\Users\Andy\Desktop\Examen\Probador\bin\Debug\Probador.pdb
+C:\Users\Andy\Desktop\Examen\Probador\bin\Debug\Examen.dll
+C:\Users\Andy\Desktop\Examen\Probador\bin\Debug\Examen.pdb
+C:\Users\Andy\Desktop\Examen\Probador\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\Examen\Probador\obj\Debug\Probador.exe
+C:\Users\Andy\Desktop\Examen\Probador\obj\Debug\Probador.pdb

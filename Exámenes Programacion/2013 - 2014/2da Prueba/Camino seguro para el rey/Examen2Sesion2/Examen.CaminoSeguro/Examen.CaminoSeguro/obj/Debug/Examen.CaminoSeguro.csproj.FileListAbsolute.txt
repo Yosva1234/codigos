@@ -1,0 +1,8 @@
+C:\Users\prueba\Desktop\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Examen.CaminoSeguro\bin\Debug\Examen.dll
+C:\Users\prueba\Desktop\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Examen.CaminoSeguro\bin\Debug\Examen.pdb
+C:\Users\prueba\Desktop\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Examen.CaminoSeguro\obj\Debug\Examen.dll
+C:\Users\prueba\Desktop\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Examen.CaminoSeguro\obj\Debug\Examen.pdb
+G:\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Examen.CaminoSeguro\bin\Debug\Examen.dll
+G:\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Examen.CaminoSeguro\bin\Debug\Examen.pdb
+G:\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Examen.CaminoSeguro\obj\Debug\Examen.dll
+G:\Examen2Sesion2\Examen2Sesion2\Examen.CaminoSeguro\Examen.CaminoSeguro\obj\Debug\Examen.pdb

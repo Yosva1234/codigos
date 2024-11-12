@@ -1,0 +1,14 @@
+C:\Users\Dany\Documents\Visual Studio 2008\Projects\TCP2\Probador\bin\Debug\Probador.exe
+C:\Users\Dany\Documents\Visual Studio 2008\Projects\TCP2\Probador\bin\Debug\Probador.pdb
+C:\Users\Dany\Documents\Visual Studio 2008\Projects\TCP2\Probador\bin\Debug\TCP2.dll
+C:\Users\Dany\Documents\Visual Studio 2008\Projects\TCP2\Probador\bin\Debug\TCP2.pdb
+C:\Users\Dany\Documents\Visual Studio 2008\Projects\TCP2\Probador\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dany\Documents\Visual Studio 2008\Projects\TCP2\Probador\obj\Debug\Probador.exe
+C:\Users\Dany\Documents\Visual Studio 2008\Projects\TCP2\Probador\obj\Debug\Probador.pdb
+C:\Users\Dany\Desktop\para Camilo\TCP2 (para los estudiantes)\Probador\obj\Debug\Probador.exe
+C:\Users\Dany\Desktop\para Camilo\TCP2 (para los estudiantes)\Probador\obj\Debug\Probador.pdb
+C:\Users\Dany\Desktop\para Camilo\TCP2 (para los estudiantes)\Probador\bin\Debug\Probador.exe
+C:\Users\Dany\Desktop\para Camilo\TCP2 (para los estudiantes)\Probador\bin\Debug\Probador.pdb
+C:\Users\Dany\Desktop\para Camilo\TCP2 (para los estudiantes)\Probador\bin\Debug\TCP2.dll
+C:\Users\Dany\Desktop\para Camilo\TCP2 (para los estudiantes)\Probador\bin\Debug\TCP2.pdb
+C:\Users\Dany\Desktop\para Camilo\TCP2 (para los estudiantes)\Probador\obj\Debug\ResolveAssemblyReference.cache

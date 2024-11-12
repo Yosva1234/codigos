@@ -1,0 +1,17 @@
+D:\rai1000\Docencia\Programacion\Curso 2013-2014\Examenes\Extraordinario\Programacion.Extraordinario\Probador\bin\Debug\Probador.exe
+D:\rai1000\Docencia\Programacion\Curso 2013-2014\Examenes\Extraordinario\Programacion.Extraordinario\Probador\bin\Debug\Probador.pdb
+D:\rai1000\Docencia\Programacion\Curso 2013-2014\Examenes\Extraordinario\Programacion.Extraordinario\Probador\obj\Debug\Probador.exe
+D:\rai1000\Docencia\Programacion\Curso 2013-2014\Examenes\Extraordinario\Programacion.Extraordinario\Probador\obj\Debug\Probador.pdb
+D:\rai1000\Docencia\Programacion\Curso 2013-2014\Examenes\Extraordinario\Programacion.Extraordinario\Probador\bin\Debug\Weboo.Colleciones.dll
+D:\rai1000\Docencia\Programacion\Curso 2013-2014\Examenes\Extraordinario\Programacion.Extraordinario\Probador\bin\Debug\Weboo.Examen.Extraordinario.dll
+D:\rai1000\Docencia\Programacion\Curso 2013-2014\Examenes\Extraordinario\Programacion.Extraordinario\Probador\bin\Debug\Weboo.Examen.Extraordinario.pdb
+D:\rai1000\Docencia\Programacion\Curso 2013-2014\Examenes\Extraordinario\Programacion.Extraordinario\Probador\bin\Debug\Weboo.Colleciones.pdb
+D:\rai1000\Docencia\Programacion\Curso 2013-2014\Examenes\Extraordinario\Programacion.Extraordinario\Probador\obj\Debug\Probador.csprojResolveAssemblyReference.cache
+D:\Escuela\Pro\Pruebas\Pruebas muy completas\2013-2014\Extraordinario\1er Día\CXXX Nombre Apellido1 Apellido2\Reconstruyendo Arbol\Reconstruyendo Arbol\Probador\obj\Debug\Probador.exe
+D:\Escuela\Pro\Pruebas\Pruebas muy completas\2013-2014\Extraordinario\1er Día\CXXX Nombre Apellido1 Apellido2\Reconstruyendo Arbol\Reconstruyendo Arbol\Probador\obj\Debug\Probador.pdb
+D:\Escuela\Pro\Pruebas\Pruebas muy completas\2013-2014\Extraordinario\1er Día\CXXX Nombre Apellido1 Apellido2\Reconstruyendo Arbol\Reconstruyendo Arbol\Probador\bin\Debug\Probador.exe
+D:\Escuela\Pro\Pruebas\Pruebas muy completas\2013-2014\Extraordinario\1er Día\CXXX Nombre Apellido1 Apellido2\Reconstruyendo Arbol\Reconstruyendo Arbol\Probador\bin\Debug\Probador.pdb
+D:\Escuela\Pro\Pruebas\Pruebas muy completas\2013-2014\Extraordinario\1er Día\CXXX Nombre Apellido1 Apellido2\Reconstruyendo Arbol\Reconstruyendo Arbol\Probador\bin\Debug\Weboo.Examen.Extraordinario.dll
+D:\Escuela\Pro\Pruebas\Pruebas muy completas\2013-2014\Extraordinario\1er Día\CXXX Nombre Apellido1 Apellido2\Reconstruyendo Arbol\Reconstruyendo Arbol\Probador\bin\Debug\Weboo.Examen.Extraordinario.pdb
+D:\Escuela\Pro\Pruebas\Pruebas muy completas\2013-2014\Extraordinario\1er Día\CXXX Nombre Apellido1 Apellido2\Reconstruyendo Arbol\Reconstruyendo Arbol\Probador\bin\Debug\Weboo.Colleciones.pdb
+D:\Escuela\Pro\Pruebas\Pruebas muy completas\2013-2014\Extraordinario\1er Día\CXXX Nombre Apellido1 Apellido2\Reconstruyendo Arbol\Reconstruyendo Arbol\Probador\obj\Debug\Probador.csprojResolveAssemblyReference.cache

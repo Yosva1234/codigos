@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MyFirstChance">
+</Property><Property Name="Solution File" Value="G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\Extraordinario\Subarboles iguales\Solutions\SubArboles Iguales 01\MyFirstChance.sln">
+</Property><Property Name="User Options File" Value="G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\Extraordinario\Subarboles iguales\Solutions\SubArboles Iguales 01\MyFirstChance.suo">
+</Property><Property Name="Date" Value="lunes, 27 de agosto de 2012">
+</Property><Property Name="Time" Value="2:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MyFirstChance.sln" Description="File successfully backed up as G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\Extraordinario\Subarboles iguales\Solutions\SubArboles Iguales 01\Backup\MyFirstChance.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MyFirstChance.suo" Description="File successfully backed up as G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\Extraordinario\Subarboles iguales\Solutions\SubArboles Iguales 01\Backup\MyFirstChance.suo">
+</Event><Event ErrorLevel="0" Project="MyFirstChance" Source="MyFirstChance\MyFirstChance.csproj" Description="Project file successfully backed up as G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\Extraordinario\Subarboles iguales\Solutions\SubArboles Iguales 01\Backup\MyFirstChance\MyFirstChance.csproj">
+</Event><Event ErrorLevel="0" Project="MyFirstChance" Source="MyFirstChance\Arbol.cs" Description="File successfully backed up as G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\Extraordinario\Subarboles iguales\Solutions\SubArboles Iguales 01\Backup\MyFirstChance\Arbol.cs">
+</Event><Event ErrorLevel="0" Project="MyFirstChance" Source="MyFirstChance\Buscador.cs" Description="File successfully backed up as G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\Extraordinario\Subarboles iguales\Solutions\SubArboles Iguales 01\Backup\MyFirstChance\Buscador.cs">
+</Event><Event ErrorLevel="2" Project="MyFirstChance" Source="MyFirstChance\Program.cs" Description="Failed to backup file as G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\Extraordinario\Subarboles iguales\Solutions\SubArboles Iguales 01\Backup\MyFirstChance\Program.cs">
+</Event><Event ErrorLevel="0" Project="MyFirstChance" Source="MyFirstChance\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\Escuel@\Programacion\Pruebas nuevas\2008 - 2009\Extraordinario\Subarboles iguales\Solutions\SubArboles Iguales 01\Backup\MyFirstChance\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyFirstChance" Source="MyFirstChance\MyFirstChance.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MyFirstChance" Source="MyFirstChance\MyFirstChance.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MyFirstChance.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MyFirstChance.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyFirstChance" Source="MyFirstChance\MyFirstChance.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

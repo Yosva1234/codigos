@@ -1,0 +1,24 @@
+C:\Users\juanc\Desktop\C1XX - Nombre y Apellidos\Examen\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\juanc\Desktop\C1XX - Nombre y Apellidos\Examen\TestApp\bin\Debug\TestApp.exe
+C:\Users\juanc\Desktop\C1XX - Nombre y Apellidos\Examen\TestApp\bin\Debug\TestApp.pdb
+C:\Users\juanc\Desktop\C1XX - Nombre y Apellidos\Examen\TestApp\bin\Debug\Weboo.Examen.dll
+C:\Users\juanc\Desktop\C1XX - Nombre y Apellidos\Examen\TestApp\bin\Debug\Weboo.Examen.pdb
+C:\Users\juanc\Desktop\C1XX - Nombre y Apellidos\Examen\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\juanc\Desktop\C1XX - Nombre y Apellidos\Examen\TestApp\obj\Debug\TestApp.exe
+C:\Users\juanc\Desktop\C1XX - Nombre y Apellidos\Examen\TestApp\obj\Debug\TestApp.pdb
+C:\Users\juanc\Desktop\C113 - Amanda Gonzalez Borrell\Examen\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\juanc\Desktop\C113 - Amanda Gonzalez Borrell\Examen\TestApp\obj\Debug\TestApp.exe
+C:\Users\juanc\Desktop\C113 - Amanda Gonzalez Borrell\Examen\TestApp\obj\Debug\TestApp.pdb
+C:\Users\juanc\Desktop\C113 - Amanda Gonzalez Borrell\Examen\TestApp\bin\Debug\TestApp.exe
+C:\Users\juanc\Desktop\C113 - Amanda Gonzalez Borrell\Examen\TestApp\bin\Debug\TestApp.pdb
+C:\Users\juanc\Desktop\C113 - Amanda Gonzalez Borrell\Examen\TestApp\bin\Debug\Weboo.Examen.dll
+C:\Users\juanc\Desktop\C113 - Amanda Gonzalez Borrell\Examen\TestApp\bin\Debug\Weboo.Examen.pdb
+C:\Users\juanc\Desktop\C113 - Amanda Gonzalez Borrell\Examen\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Extra\C113 - Amanda Gonzalez Borrell\Examen\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Extra\C113 - Amanda Gonzalez Borrell\Examen\TestApp\obj\Debug\TestApp.exe
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Extra\C113 - Amanda Gonzalez Borrell\Examen\TestApp\obj\Debug\TestApp.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Extra\C113 - Amanda Gonzalez Borrell\Examen\TestApp\bin\Debug\TestApp.exe
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Extra\C113 - Amanda Gonzalez Borrell\Examen\TestApp\bin\Debug\TestApp.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Extra\C113 - Amanda Gonzalez Borrell\Examen\TestApp\bin\Debug\Weboo.Examen.dll
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Extra\C113 - Amanda Gonzalez Borrell\Examen\TestApp\bin\Debug\Weboo.Examen.pdb
+C:\Users\juanc\Desktop\Exámenes Programacion\2017 - 2018\Extra\C113 - Amanda Gonzalez Borrell\Examen\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache

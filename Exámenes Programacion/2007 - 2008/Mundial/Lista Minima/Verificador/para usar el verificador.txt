@@ -1,0 +1,1 @@
+Copiar Verifier.exe y verifierConfig.xml en la carpeta donde se encuentren las bibliotecas ProblemaLista.dll e IListaMinima.dll (probablemente en la carpeta bin\Debug o bin\Release de su proyecto)

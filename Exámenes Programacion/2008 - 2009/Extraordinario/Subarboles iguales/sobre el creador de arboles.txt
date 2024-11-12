@@ -1,0 +1,13 @@
+- Para poderlo utilizar debe garantizar que en su misma carpeta aparece la biblioteca Weboo.Arboles.dll.
+
+- No sirve para determinar directamente si su solución es correcta o no. Ud debe definir su lógica de prueba (por ejemplo: proyecto de consola donde invoque su método) y auxiliarse de esta aplicación para generar el código de creación de árboles.
+
+- Al ejecutar la aplicación:
+
+  1-) IMPORTANTE: especificar que quiere crear árboles n-arios (no binarios)
+  2-) ir al menú Arbol
+  3-) escoger entre string e int
+  4-) "Crear nuevo"
+  5-) Click derecho sobre los nodos para eliminarlos / agregarles hijos
+  6-) Para cambiar el valor de un nodo, seleccionarlo con click izquierdo y luego editar el valor en la tabla de propiedades que aparece a la derecha
+  7-) Seleccionar el tab "Codigo" y copiar su contenido para luego poderlo pegar en su código de prueba en Visual Studio

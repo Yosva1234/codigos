@@ -1,0 +1,10 @@
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\Probador\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\Probador\bin\Debug\Probador.exe
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\Probador\bin\Debug\Probador.pdb
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\Probador\bin\Debug\EnvolviendoMatrices.dll
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\Probador\bin\Debug\Matrices.dll
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\Probador\bin\Debug\EnvolviendoMatrices.pdb
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\Probador\obj\x86\Debug\Probador.exe
+D:\Arnold\Importante\Estudio\programacion\Pruebas\2010 - 2011\2da - Recursividad\EnvolverMAtrices\Probador\obj\x86\Debug\Probador.pdb
+D:\Escuela UH\Programación\Exámenes\2010 - 2011\2da - Recursividad\EnvolverMAtrices\Probador\obj\x86\Debug\Probador.exe
+D:\Escuela UH\Programación\Exámenes\2010 - 2011\2da - Recursividad\EnvolverMAtrices\Probador\obj\x86\Debug\Probador.pdb

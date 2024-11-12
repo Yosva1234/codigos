@@ -1,0 +1,12 @@
+/Users/javierlopetegui/Documents/Ayudantia/Pruebas finales/ExtraordinarioArboles/ZoocialNetwork/obj/Debug/net6.0/ZoocialNetwork.csproj.AssemblyReference.cache
+/Users/javierlopetegui/Documents/Ayudantia/Pruebas finales/ExtraordinarioArboles/ZoocialNetwork/obj/Debug/net6.0/ZoocialNetwork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javierlopetegui/Documents/Ayudantia/Pruebas finales/ExtraordinarioArboles/ZoocialNetwork/obj/Debug/net6.0/ZoocialNetwork.AssemblyInfoInputs.cache
+/Users/javierlopetegui/Documents/Ayudantia/Pruebas finales/ExtraordinarioArboles/ZoocialNetwork/obj/Debug/net6.0/ZoocialNetwork.AssemblyInfo.cs
+/Users/javierlopetegui/Documents/Ayudantia/Pruebas finales/ExtraordinarioArboles/ZoocialNetwork/obj/Debug/net6.0/ZoocialNetwork.csproj.CoreCompileInputs.cache
+/Users/javierlopetegui/Documents/Ayudantia/Pruebas finales/ExtraordinarioArboles/ZoocialNetwork/bin/Debug/net6.0/ZoocialNetwork.deps.json
+/Users/javierlopetegui/Documents/Ayudantia/Pruebas finales/ExtraordinarioArboles/ZoocialNetwork/bin/Debug/net6.0/ZoocialNetwork.dll
+/Users/javierlopetegui/Documents/Ayudantia/Pruebas finales/ExtraordinarioArboles/ZoocialNetwork/bin/Debug/net6.0/ref/ZoocialNetwork.dll
+/Users/javierlopetegui/Documents/Ayudantia/Pruebas finales/ExtraordinarioArboles/ZoocialNetwork/bin/Debug/net6.0/ZoocialNetwork.pdb
+/Users/javierlopetegui/Documents/Ayudantia/Pruebas finales/ExtraordinarioArboles/ZoocialNetwork/obj/Debug/net6.0/ZoocialNetwork.dll
+/Users/javierlopetegui/Documents/Ayudantia/Pruebas finales/ExtraordinarioArboles/ZoocialNetwork/obj/Debug/net6.0/ref/ZoocialNetwork.dll
+/Users/javierlopetegui/Documents/Ayudantia/Pruebas finales/ExtraordinarioArboles/ZoocialNetwork/obj/Debug/net6.0/ZoocialNetwork.pdb

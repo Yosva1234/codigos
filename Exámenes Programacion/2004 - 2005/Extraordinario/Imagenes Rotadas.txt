@@ -1,0 +1,5 @@
+namespace: ImagenesRotadas
+clase: Principal
+método:public static int AnguloRotacion(QuadTree imagen1, QuadTree imagen2);
+ 
+

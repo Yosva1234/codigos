@@ -1,0 +1,14 @@
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Weboo.Examen\bin\Debug\Weboo.Examen.dll
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Weboo.Examen\bin\Debug\Weboo.Examen.pdb
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Weboo.Examen\bin\Debug\Weboo.Utils.dll
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Weboo.Examen\bin\Debug\Weboo.Utils.pdb
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Weboo.Examen\obj\Debug\ResolveAssemblyReference.cache
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Weboo.Examen\obj\Debug\Weboo.Examen.dll
+D:\Docencia\Programación\2011-2012\Exámenes\Matrices esparcidas\Weboo.Examen\Weboo.Examen\obj\Debug\Weboo.Examen.pdb
+G:\Orientación\Plantilla\Weboo.Examen\bin\Debug\Weboo.Examen.dll
+G:\Orientación\Plantilla\Weboo.Examen\bin\Debug\Weboo.Examen.pdb
+G:\Orientación\Plantilla\Weboo.Examen\bin\Debug\Weboo.Utils.dll
+G:\Orientación\Plantilla\Weboo.Examen\bin\Debug\Weboo.Utils.xml
+G:\Orientación\Plantilla\Weboo.Examen\obj\Debug\ResolveAssemblyReference.cache
+G:\Orientación\Plantilla\Weboo.Examen\obj\Debug\Weboo.Examen.dll
+G:\Orientación\Plantilla\Weboo.Examen\obj\Debug\Weboo.Examen.pdb
